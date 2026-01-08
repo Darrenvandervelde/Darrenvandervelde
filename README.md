@@ -9,8 +9,6 @@
       width="100%" 
       style="max-height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;"
     />
-
-    <!-- Profile Picture -->
     <img 
       src="https://avatars.githubusercontent.com/u/241697224?v=4&s=200"
       alt="Darren van der Velde Profile"
