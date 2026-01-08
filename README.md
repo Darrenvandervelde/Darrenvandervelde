@@ -128,12 +128,6 @@ I help students with:
 
  Want help? → Open a **Discussion** or **Issue**
 
----
-
-## GitHub Activity
-<p align="center">
-  <img src="https://ghchart.rshah.org/darrenvandervelde" height="150" />
-</p>
 
 ---
 
