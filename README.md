@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css" />
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Juypter-notebooks-000?style=for-the-badge&logo=Juypter" />
 </p>
 
 ---
