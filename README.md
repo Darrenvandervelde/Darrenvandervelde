@@ -1,20 +1,31 @@
+<!-- Banner + Profile Picture -->
 <p align="center">
   <img 
-    src="https://avatars.githubusercontent.com/u/241697224?v=4&s=200"
-    alt="Darren van der Velde Profile"
-    width="200"
-    style="border-radius: 50px;"
+    src="https://your-banner-image-url.com/banner.jpg" 
+    alt="Banner" 
+    width="100%" 
+    style="max-height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;"
   />
 </p>
 
-<h1 align="center">Hi, I'm <strong>Darren van der Velde</strong></h1>
+<p align="center" style="margin-top: -100px;">
+  <img 
+    src="https://avatars.githubusercontent.com/u/241697224?v=4&s=200"
+    alt="Darren van der Velde Profile"
+    width="150"
+    style="border-radius: 50%; border: 5px solid white;"
+  />
+</p>
+
+<h1 align="center">Hi, I'm <strong>Darren van der Velde</strong> 👋</h1>
 <h3 align="center">GitHub Mentor | Data & Software Development</h3>
 
 <h2 align="center">
   <a href="https://darrenvandervelde.free.nf/" target="_blank">
-    View My Website Portfolio
+    🌐 View My Website Portfolio
   </a>
 </h2>
+
 
 ---
 
