@@ -1,41 +1,41 @@
-<!-- Banner + Profile Picture -->
-<div align="center" style="position: relative; width: 100%; max-width: 100%; background: white;">
-  <!-- Banner -->
-  <img 
-    src="https://media.licdn.com/dms/image/v2/D4D16AQFgeQTy3Wzc7A/profile-displaybackgroundimage-shrink_350_1400/B4DZt1d6g5IYAY-/0/1767202336196?e=1769644800&v=beta&t=gK5KjoLZGI4fa3Ee1UcDyh2M4sRt-V2pmgZ4-TRNEgc" 
-    alt="Banner" 
-    width="100%" 
-    style="max-height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;"
-  />
+<div style="background: white; padding: 20px; border-radius: 15px;">
 
-  <!-- Profile Picture -->
-  <img 
-    src="https://avatars.githubusercontent.com/u/241697224?v=4&s=200"
-    alt="Darren van der Velde Profile"
-    width="150"
-    style="border-radius: 50%; border: 5px solid white; position: absolute; bottom: -75px; left: 50%; transform: translateX(-50%);"
-  />
-</div>
+  <!-- Banner + Profile Picture -->
+  <div align="center" style="position: relative; width: 100%; max-width: 100%;">
+    <!-- Banner -->
+    <img 
+      src="https://media.licdn.com/dms/image/v2/D4D16AQFgeQTy3Wzc7A/profile-displaybackgroundimage-shrink_350_1400/B4DZt1d6g5IYAY-/0/1767202336196?e=1769644800&v=beta&t=gK5KjoLZGI4fa3Ee1UcDyh2M4sRt-V2pmgZ4-TRNEgc" 
+      alt="Banner" 
+      width="100%" 
+      style="max-height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;"
+    />
 
+    <!-- Profile Picture -->
+    <img 
+      src="https://avatars.githubusercontent.com/u/241697224?v=4&s=200"
+      alt="Darren van der Velde Profile"
+      width="150"
+      style="border-radius: 50%; border: 5px solid white; position: absolute; bottom: -75px; left: 50%; transform: translateX(-50%);"
+    />
+  </div>
 
-<h1 align="center">Hi, I'm <strong>Darren van der Velde</strong> 👋</h1>
-<h3 align="center">GitHub Mentor | Data & Software Development</h3>
+  <h1 align="center">Hi, I'm <strong>Darren van der Velde</strong> 👋</h1>
+  <h3 align="center">GitHub Mentor | Data & Software Development</h3>
 
-<h2 align="center">
-  <a href="https://darrenvandervelde.free.nf/" target="_blank">
-     View My Website Portfolio
-  </a>
-</h2>
+  <h2 align="center">
+    <a href="https://darrenvandervelde.free.nf/" target="_blank">
+      View My Website Portfolio
+    </a>
+  </h2>
 
+  <hr>
 
----
-
-## About Me
-<div align="center">
- <p>  Helping<strong> coding & data students </strong> grow through real-world projects  </p>
- <p>  Passionate about <strong>Web Development, Data Visualization, and AI </strong>  </p>
- <p>  Focused on <strong>clean code, UI/UX, and problem-solving </strong> </p>
-</div>
+  <!-- About Me -->
+  <div align="center">
+    <p>Helping <strong>coding & data students</strong> grow through real-world projects</p>
+    <p>Passionate about <strong>Web Development, Data Visualization, and AI</strong></p>
+    <p>Focused on <strong>clean code, UI/UX, and problem-solving</strong></p>
+  </div>
 
 ## Skills & Tools
 
@@ -119,34 +119,29 @@
 
 ---
 
-## Mentorship
-I help students with:
-- Git & GitHub workflows  
-- Data projects (Python, SQL, APIs, dashboards)  
-- Web development fundamentals  
-- Clean code and project structure  
+  <!-- Mentorship -->
+  <h2>Mentorship</h2>
+  <p>I help students with:</p>
+  <ul>
+    <li>Git & GitHub workflows</li>
+    <li>Data projects (Python, SQL, APIs, dashboards)</li>
+    <li>Web development fundamentals</li>
+    <li>Clean code and project structure</li>
+  </ul>
+  <p>Want help? → Open a <strong>Discussion</strong> or <strong>Issue</strong></p>
 
- Want help? → Open a **Discussion** or **Issue**
+  <hr>
 
+  <!-- Connect -->
+  <h2>Connect with Me</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/YOUR-LINK">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:YOUR-EMAIL">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+    </a>
+  </p>
 
----
-
-## Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
+  <p align="center"> Thanks for visiting my GitHub profile!</p>
 </div>
- <img 
-    src="https://media.licdn.com/dms/image/v2/D4D16AQFgeQTy3Wzc7A/profile-displaybackgroundimage-shrink_350_1400/B4DZt1d6g5IYAY-/0/1767202336196?e=1769644800&v=beta&t=gK5KjoLZGI4fa3Ee1UcDyh2M4sRt-V2pmgZ4-TRNEgc" 
-    alt="Banner" 
-    width="100%" 
-    style="max-height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;"
-  />
-*Thanks for visiting my GitHub profile!*
