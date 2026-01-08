@@ -15,7 +15,7 @@
     width="150"
     style="border-radius: 50%; border: 5px solid white; position: absolute; bottom: -75px; left: 50%; transform: translateX(-50%);"
   />
-</div>
+
 
 
 <h1 align="center">Hi, I'm <strong>Darren van der Velde</strong> 👋</h1>
@@ -142,5 +142,5 @@ I help students with:
 </p>
 
 ---
-
+</div>
 *Thanks for visiting my GitHub profile!*
