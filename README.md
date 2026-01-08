@@ -23,7 +23,7 @@
 
 <h2 align="center">
   <a href="https://darrenvandervelde.free.nf/" target="_blank">
-    🌐 View My Website Portfolio
+     View My Website Portfolio
   </a>
 </h2>
 
@@ -31,9 +31,9 @@
 ---
 
 ## About Me
-- Helping **coding & data students** grow through real-world projects  
-- Passionate about **Web Development**, **Data Visualization**, and **AI**  
-- Focused on **clean code**, **UI/UX**, and **problem-solving**
+ Helping **coding & data students** grow through real-world projects  
+ Passionate about **Web Development**, **Data Visualization**, and **AI**  
+ Focused on **clean code**, **UI/UX**, and **problem-solving**
 
 ---
 
