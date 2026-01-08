@@ -29,12 +29,14 @@
 
 
 ---
-<div align="center">
+
 ## About Me
- Helping **coding & data students** grow through real-world projects  
- Passionate about **Web Development**, **Data Visualization**, and **AI**  
- Focused on **clean code**, **UI/UX**, and **problem-solving**
+<div align="center">
+ <p>  Helping<strong> coding & data students </strong> grow through real-world projects  </p>
+ <p>  Passionate about <strong>Web Development, Data Visualization, and AI </strong>  </p>
+ <p>  Focused on <strong>clean code, UI/UX, and problem-solving </strong> </p>
 </div>
+
 ---
 
 ## Skills & Tools
