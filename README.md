@@ -26,8 +26,6 @@
     </a>
   </h2>
 
-  <hr>
-
   <!-- About Me -->
   <div align="center">
     <p>Helping <strong>coding & data students</strong> grow through real-world projects</p>
