@@ -41,15 +41,16 @@
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk">
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus">
-  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/Shell-000?style=for-the-badge&logo=gnu-bash">
-  <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
 </p>
+
 
 ### ML / DL
 <p>
