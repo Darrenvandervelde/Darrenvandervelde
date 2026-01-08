@@ -51,73 +51,70 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white">
 </p>
 
-
-
-### ML / DL
+### 🤖 ML / DL
 <p>
-  <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy">
-  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas">
-  <img src="https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikit-learn">
-  <img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow">
-  <img src="https://img.shields.io/badge/Keras-000?style=for-the-badge&logo=keras">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white">
 </p>
 
-
-### Technologies & Frameworks
+### ⚙️ Technologies & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white">
 </p>
 
-### Visualization
+### 📊 Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi">
-  <img src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau">
-  <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-0081C9?style=plastic&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-000?style=plastic">
+  <img src="https://img.shields.io/badge/Seaborn-000?style=plastic">
 </p>
 
-### Design
+### 🎨 Design
 <p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=adobephotoshop">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-000?style=for-the-badge&logo=adobelightroom">
-  <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva">
-  <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=plastic&logo=adobelightroom&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white">
 </p>
 
-### IDEs / Editors
+### 🧑‍💻 IDEs / Editors
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode">
-  <img src="https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter">
-  <img src="https://img.shields.io/badge/Google%20Colab-000?style=for-the-badge&logo=googlecolab">
-  <img src="https://img.shields.io/badge/Replit-000?style=for-the-badge&logo=replit">
-  <img src="https://img.shields.io/badge/Atom-000?style=for-the-badge&logo=atom">
-  <img src="https://img.shields.io/badge/Sublime%20Text-000?style=for-the-badge&logo=sublimetext">
-  <img src="https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/Replit-374785?style=plastic&logo=replit&logoColor=white">
+  <img src="https://img.shields.io/badge/Atom-66595C?style=plastic&logo=atom&logoColor=white">
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=plastic&logo=sublimetext&logoColor=white">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=plastic&logo=codepen&logoColor=white">
 </p>
 
-### Office Tools
+### 📁 Office Tools
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Office-000?style=for-the-badge&logo=microsoftoffice">
-  <img src="https://img.shields.io/badge/LibreOffice-000?style=for-the-badge&logo=libreoffice">
-  <img src="https://img.shields.io/badge/Google%20Docs-000?style=for-the-badge&logo=googledocs">
-  <img src="https://img.shields.io/badge/Google%20Sheets-000?style=for-the-badge&logo=googlesheets">
-  <img src="https://img.shields.io/badge/Google%20Slides-000?style=for-the-badge&logo=googleslides">
-  <img src="https://img.shields.io/badge/Outlook-000?style=for-the-badge&logo=microsoftoutlook">
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=plastic&logo=microsoftoffice&logoColor=white">
+  <img src="https://img.shields.io/badge/LibreOffice-18A303?style=plastic&logo=libreoffice&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=plastic&logo=googledocs&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=plastic&logo=googlesheets&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Slides-F4B400?style=plastic&logo=googleslides&logoColor=white">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=plastic&logo=microsoftoutlook&logoColor=white">
 </p>
 
-### Operating Systems
+### 💻 Operating Systems
 <p>
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
 </p>
 
 ---
