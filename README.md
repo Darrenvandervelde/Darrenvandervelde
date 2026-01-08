@@ -3,7 +3,7 @@
     src="https://avatars.githubusercontent.com/u/241697224?v=4&s=200"
     alt="Darren van der Velde Profile"
     width="200"
-    style="border-radius: 50;"
+    style="border-radius: 50px;"
   />
 </p>
 
