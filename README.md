@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css" />
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-bage&logo=git" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
 </p>
 
 ---
