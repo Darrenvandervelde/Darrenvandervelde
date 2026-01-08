@@ -4,7 +4,7 @@
     src="https://media.licdn.com/dms/image/v2/D4D16AQFgeQTy3Wzc7A/profile-displaybackgroundimage-shrink_350_1400/B4DZt1d6g5IYAY-/0/1767202336196?e=1769644800&v=beta&t=gK5KjoLZGI4fa3Ee1UcDyh2M4sRt-V2pmgZ4-TRNEgc" 
     alt="Banner" 
     width="100%" 
-    style="max-height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;"
+    style="max-height: 200px; object-fit: cover; border-radius: 15px 15px 0 0; position="absulote"
   />
 </p>
 
