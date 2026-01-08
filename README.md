@@ -17,7 +17,7 @@
     />
   </div>
 
-  <h1 align="center">Hi, I'm <strong>Darren van der Velde</strong> 👋</h1>
+  <h1 align="center">Hi, I'm <strong>Darren van der Velde</strong> </h1>
   <h3 align="center">GitHub Mentor | Data & Software Development</h3>
 
   <h2 align="center">
