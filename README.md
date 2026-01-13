@@ -34,6 +34,12 @@
   </div>
 
 ## Skills & Tools
+### Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![React](https://img.shields.io/badge/React-18-blue)
+![Node](https://img.shields.io/badge/Node.js-Backend-green)
+![PHP](https://img.shields.io/badge/PHP-Laravel-purple)
+
 
 ### Languages
 <p>
