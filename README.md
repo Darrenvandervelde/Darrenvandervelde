@@ -14,18 +14,18 @@
   <h1 align="center">Hi, I'm <strong>Darren van der Velde</strong> </h1>
   <h2 align="center">GitHub Mentor | Data & Software Development</h3>
 
-  <h3 align="center">
-    <a href="https://darrenvandervelde.free.nf/" target="_blank">
-      View My Website Portfolio
-    </a>
-  </h2>
-
   <!-- About Me -->
   <div align="center">
     <p>Helping <strong>coding & data students</strong> grow through real-world projects</p>
     <p>Passionate about <strong>Web Development, Data Visualization, and AI</strong></p>
     <p>Focused on <strong>clean code, UI/UX, and problem-solving</strong></p>
   </div>
+
+  <h3 align="center">
+    <a href="https://darrenvandervelde.free.nf/" target="_blank">
+      View My Website Portfolio
+    </a>
+  </h3>
 
 ## Skills & Tools
 ## Languages
