@@ -85,13 +85,13 @@
 </p>
 
 ## Databases
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white">
 </p>
 
 ## Operating Systems
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white">
 </p>
