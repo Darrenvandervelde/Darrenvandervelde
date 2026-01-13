@@ -18,7 +18,7 @@
 ---
 
 ## Skills & Tools
-## 💼 Have worked in:
+## Have worked in:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -53,7 +53,7 @@
 
 ---
 
-## 🔧 Version Control & Development Tools:
+## Version Control & Development Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -66,7 +66,7 @@
 
 ---
 
-## 🖥 Operating Systems familiar with:
+## Operating Systems familiar with:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -75,7 +75,7 @@
 
 ---
 
-## 🤝 Mentorship
+## Mentorship
 
 I help students with:
 - Git & GitHub workflows  
@@ -87,7 +87,7 @@ I help students with:
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
@@ -97,4 +97,4 @@ I help students with:
   </a>
 </p>
 
-<p align="center">⭐ Thanks for visiting my GitHub profile!</p>
+<p align="center"> Thanks for visiting my GitHub profile!</p>
