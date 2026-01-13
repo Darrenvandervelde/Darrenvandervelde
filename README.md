@@ -42,7 +42,7 @@
 </p>
 
 ## IDEs & Development Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">
@@ -51,7 +51,7 @@
 </p>
 
 ## Machine Learning / Deep Learning
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white">
@@ -60,7 +60,7 @@
 </p>
 
 ## Technologies & Frameworks
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black">
@@ -68,7 +68,7 @@
 </p>
 
 ## Visualisation
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-0081C9?style=plastic&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-000000?style=plastic">
@@ -76,7 +76,7 @@
 </p>
 
 ## Design Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=plastic&logo=adobelightroom&logoColor=white">
