@@ -4,16 +4,10 @@
   <div align="center" style="position: relative; width: 100%; max-width: 100%;">
     <!-- Banner -->
     <img 
-      src="https://media.licdn.com/dms/image/v2/D4D16AQFgeQTy3Wzc7A/profile-displaybackgroundimage-shrink_350_1400/B4DZt1d6g5IYAY-/0/1767202336196?e=1769644800&v=beta&t=gK5KjoLZGI4fa3Ee1UcDyh2M4sRt-V2pmgZ4-TRNEgc" 
+      src="profile Banner.png" 
       alt="Banner" 
       width="100%" 
       style="max-height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;"
-    />
-    <img 
-      src="https://avatars.githubusercontent.com/u/241697224?v=4&s=200"
-      alt="Darren van der Velde Profile"
-      width="150"
-      style="border-radius: 50%; border: 5px solid white; position: absolute; bottom: -75px; left: 50%; transform: translateX(-50%);"
     />
   </div>
 
