@@ -4,7 +4,7 @@
   <div align="center" style="position: relative; width: 100%; max-width: 100%;">
     <!-- Banner -->
     <img 
-      src="profile Banner.png" 
+      src="Profile Banner.png" 
       alt="Banner" 
       width="100%" 
       style="max-height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;"
