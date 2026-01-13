@@ -27,7 +27,8 @@
       View My Website Portfolio
     </a>
   </h3>
-
+<div align="center">
+  
 ## Skills & Tools
 ## Languages
 <p align="center">
@@ -122,3 +123,4 @@
 
   <p align="center"> Thanks for visiting my GitHub profile!</p>
 </div>
+<div>
