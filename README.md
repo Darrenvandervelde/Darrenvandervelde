@@ -11,8 +11,8 @@
     />
   </div>
 
-  <h1 align="center">Hi, I'm <strong>Darren van der Velde</strong> </h1>
-  <h3 align="center">GitHub Mentor | Data & Software Development</h3>
+  <h1 align="left">Hi, I'm <strong>Darren van der Velde</strong> </h1>
+  <h3 align="left">GitHub Mentor | Data & Software Development</h3>
 
   <h2 align="center">
     <a href="https://darrenvandervelde.free.nf/" target="_blank">
