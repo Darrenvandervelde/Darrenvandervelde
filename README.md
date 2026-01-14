@@ -1,7 +1,9 @@
+<!-- Profile Picture -->
 <p align="center">
-  <img src="Profile Banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://avatars.githubusercontent.com/u/241697224?v=4&size=64" alt="Darren van der Velde" width="150" height="150" style="border-radius: 50%;"/>
 </p>
 
+<!-- Header -->
 <h1 align="center">Hi, I'm <strong>Darren van der Velde</strong> </h1>
 <h3 align="center">GitHub Mentor | Data & Software Development</h3>
 
