@@ -6,7 +6,7 @@
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Hi, I'm <strong>Darren van der Velde</strong></h1>
 
-<p align="center">
+<p align="left" width="1000">
   <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" />
 </p>
 
