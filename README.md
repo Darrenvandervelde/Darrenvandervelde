@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">Hi, I'm <strong>Darren van der Velde</strong></h1>
+<h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Hi, I'm <strong>Darren van der Velde</strong></h1>
 <h3 align="center">GitHub Mentor | Data & Software Development</h3>
 
 <p align="center">
