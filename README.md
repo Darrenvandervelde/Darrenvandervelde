@@ -16,11 +16,12 @@
 <p align="center">
    <a href="https://darrenvandervelde.free.nf/" target="_blank"><strong>View My Website Portfolio</strong></a>
 </p>
-
+<div align="center">
 ### GitHub Stats
 <p align="center">
   <img src="https://ghchart.rshah.org/darrenvandervelde" height="150" />
 </p>
+</div>
 
 ---
 
