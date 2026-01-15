@@ -5,7 +5,7 @@
 
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Hi, I'm <strong>Darren van der Velde</strong></h1>
-<h3 align="center">GitHub Mentor | Data & Software Development</h3>
+<h2 align="center">GitHub Mentor | Data & Software Development</h2>
 
 <p align="center">
   Empowering <strong>coding & data students</strong> through real-world, hands-on projects.<br/>
