@@ -1,10 +1,11 @@
+<p align="center" style="wdith:100%;">
+  <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" /><img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" />
+</p>
+
+
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/241697224?s=400&u=944bd996498dbd5324895b1c6d93bbf78081c705&v=4" alt="Darren van der Velde" width="150" height="150" style="border-radius: 50%;"/>
-</p>
-
-<p align="center" style="wdith:100%;">
-  <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" /><img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" />
 </p>
 
 <!-- Header -->
