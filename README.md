@@ -35,9 +35,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <h1>Skill & Tools</h1>
-</p>
+</div>
 
 <p align="center" style="wdith:100%;">
   <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" /><img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" />
