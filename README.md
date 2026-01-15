@@ -36,6 +36,11 @@
 ---
 
 ## Skill & Tools
+
+<p align="center" style="wdith:100%;">
+  <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" /><img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" />
+</p>
+
 ### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
