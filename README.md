@@ -5,9 +5,10 @@
 
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Hi, I'm <strong>Darren van der Velde</strong></h1>
-<p align="center" style="width:100%;">
-![alt text](https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif)
-</p>
+
+![Rainbow Logo](https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif)
+
+
 <h2 align="center">GitHub Mentor | Data & Software Development</h2>
 
 <p align="center">
