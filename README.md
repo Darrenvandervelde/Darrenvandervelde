@@ -33,8 +33,6 @@
 </p>
 </div>
 
----
-
 <div align="center">
   <h1>Skill & Tools</h1>
 </div>
@@ -101,7 +99,9 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
----
+<p align="center" style="wdith:100%;">
+  <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" /><img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" />
+</p>
 
 ## Mentorship & Guidance
 
@@ -113,7 +113,9 @@ I help students with:
 
 Open a **Discussion** or **Issue** if you want guidance or feedback on your projects.  
 
----
+<p align="center" style="wdith:100%;">
+  <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" /><img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" />
+</p>
 
 ## Connect with Me
 <p align="center">
