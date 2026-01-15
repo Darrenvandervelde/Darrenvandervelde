@@ -1,8 +1,3 @@
-<p align="center" style="wdith:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
-</p>
-
-
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/241697224?s=400&u=944bd996498dbd5324895b1c6d93bbf78081c705&v=4" alt="Darren van der Velde" width="150" height="150" style="border-radius: 50%;"/>
@@ -27,6 +22,11 @@
 <p align="center">
    <a href="https://darrenvandervelde.free.nf/" target="_blank"><strong>View My Website Portfolio</strong></a>
 </p>
+
+<p align="center" style="wdith:100%;">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
+</p>
+
 <div align="center">
 <h1>GitHub Stats</h1>
 <p align="center">
