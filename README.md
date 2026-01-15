@@ -42,8 +42,8 @@
   <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
 </p>
 
-<p align="center">
-  <h1>Programming Languages</h1>
+### Programing Languages
+<p align="left">
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
