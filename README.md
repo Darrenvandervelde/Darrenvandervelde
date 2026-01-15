@@ -6,7 +6,9 @@
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Hi, I'm <strong>Darren van der Velde</strong></h1>
 
-![Rainbow Logo](https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AzmSurov/AzmSurov/master/Rainbow.gif" alt="Rainbow Logo" />
+</p>
 
 
 <h2 align="center">GitHub Mentor | Data & Software Development</h2>
