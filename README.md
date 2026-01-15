@@ -17,6 +17,11 @@
    <a href="https://darrenvandervelde.free.nf/" target="_blank"><strong>View My Website Portfolio</strong></a>
 </p>
 
+### GitHub Stats
+<p align="center">
+  <img src="https://ghchart.rshah.org/darrenvandervelde" height="150" />
+</p>
+
 ---
 
 ## 🛠 Skills & Tools
