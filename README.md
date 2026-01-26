@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-00ADD8?style=for-the-badge&logo=sql&logoColor=blue">
+  <img src="https://img.shields.io/badge/Sql-00ADD8?style=for-the-badge&logo=sql&logoColor=blue">
 </p>
 
 ### Web & Frameworks
