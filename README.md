@@ -1,9 +1,9 @@
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"
-    alt="JS Divider"
-    width="85%"
-    height="70"
+    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+    alt="JavaScript Frameworks"
+    width="95%"
+    height="180"
   />
 </p>
 
