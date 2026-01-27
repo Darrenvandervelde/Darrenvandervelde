@@ -5,7 +5,11 @@
     height="250"
   />
    <img 
-     src="https://avatars.githubusercontent.com/u/241697224?s=400&u=944bd996498dbd5324895b1c6d93bbf78081c705&v=4" alt="Darren van der Velde" width="150" height="150" style="border-radius: 50%;"/>
+     src="https://avatars.githubusercontent.com/u/241697224?s=400&u=944bd996498dbd5324895b1c6d93bbf78081c705&v=4" 
+     alt="Darren van der Velde" 
+     width="75" 
+     height="75" 
+     style="border-radius: 50%;"/>
 </p>
 
 <!-- Profile Picture -->
