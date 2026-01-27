@@ -1,9 +1,9 @@
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNudDd2Z3U0Mmx4eGY3OGI1enphcXByaDV5M3RocjJ3dmFvZ2R0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pi0JaouN4aFaV2VtP7/giphy.gif"
     alt="JavaScript Data Visuals"
     width="90%"
-    height="160"
+    height="250"
   />
 </p>
 
