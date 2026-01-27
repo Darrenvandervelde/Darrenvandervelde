@@ -22,7 +22,7 @@
     src="https://avatars.githubusercontent.com/u/241697224?s=400&v=4"
     width="125"
     height="125"
-    style="border-radius:50%; margin-top:-120px;"
+    style="border-radius:50%; margin-top:-600px;"
   />
 </p>
 
