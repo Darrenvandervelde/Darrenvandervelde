@@ -21,8 +21,12 @@
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Hi, I'm <strong>Darren van der Velde</strong></h1>
 
-<p align="center" style="wdith:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
+<p align="center"">
+  <img 
+    src="assets/rainbow.gif" 
+    alt="Rainbow Logo" 
+    width="100%"
+    />
 </p>
 
 
