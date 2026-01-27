@@ -8,17 +8,24 @@
 </p>
 
 <!-- Profile Picture -->
-<p 
-  align="center"
-  style="background: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ0ODh2MjZ1ODk3bXcxMndmamRjZmhjbXFzem5iMzZjOG11bXplbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dYsbDcbfiGwwyVpMWf/giphy.webp");">
+<p align="center">
   <img 
-     src="https://avatars.githubusercontent.com/u/241697224?s=400&u=944bd996498dbd5324895b1c6d93bbf78081c705&v=4" 
-     alt="Darren van der Velde" 
-     width="125" 
-     height="125" 
-     style="border-radius: 50%;"
-    /> 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ0ODh2MjZ1ODk3bXcxMndmamRjZmhjbXFzem5iMzZjOG11bXplbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dYsbDcbfiGwwyVpMWf/giphy.webp"
+    width="100%"
+    height="180"
+    alt="JavaScript Background"
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/241697224?s=400&v=4"
+    width="125"
+    height="125"
+    style="border-radius:50%; margin-top:-120px;"
+  />
+</p>
+
 
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Hi, I'm <strong>Darren van der Velde</strong></h1>
