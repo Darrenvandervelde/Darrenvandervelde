@@ -41,8 +41,11 @@
    <a href="https://darrenvandervelde.free.nf/" target="_blank"><strong>View My Website Portfolio</strong></a>
 </p>
 
-<p align="center" style="wdith:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
+<p align="center">
+  <img src="assets/rainbow.gif" 
+    alt="Rainbow Logo" 
+    width="100%"
+    />
 </p>
 
 <div align="center">
@@ -57,7 +60,10 @@
 </div>
 
 <p align="center" style="wdith:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
+  <img src="assets/rainbow.gif" 
+    alt="Rainbow Logo" 
+    width="100%"
+    />
 </p>
 
 ### Programing Languages
