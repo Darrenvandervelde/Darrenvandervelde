@@ -1,7 +1,7 @@
 <p align="center">  
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG05NnBkaW5kZzVyd3RhM21mM3ltcmhscWE5dTM2OXJwZm53M2ZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBVRgrfOBPeH5zNWJU/giphy.gif"
     alt="JavaScript Data Visuals"
-    width="50%"
+    width="100%"
     height="250"
   />
     <img 
