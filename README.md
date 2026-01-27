@@ -1,3 +1,4 @@
+<!--Banner Top-->
 <p align="center">  
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG05NnBkaW5kZzVyd3RhM21mM3ltcmhscWE5dTM2OXJwZm53M2ZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBVRgrfOBPeH5zNWJU/giphy.gif"
     alt="JavaScript Data Visuals"
@@ -40,10 +41,6 @@
 <p align="center" style="wdith:100%;">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
 </p>
-
-### extra
-
-  <a href="Girthub" target="_blank"><strong>View old github account </strong></a>
 
 <div align="center">
 <h1>GitHub Stats</h1>
