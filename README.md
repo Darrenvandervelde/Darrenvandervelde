@@ -7,8 +7,8 @@
    <img 
      src="https://avatars.githubusercontent.com/u/241697224?s=400&u=944bd996498dbd5324895b1c6d93bbf78081c705&v=4" 
      alt="Darren van der Velde" 
-     width="175" 
-     height="175" 
+     width="250" 
+     height="250" 
      style="border-radius: 50%;"/>
 </p>
 
