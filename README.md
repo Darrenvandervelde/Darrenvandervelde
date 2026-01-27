@@ -22,7 +22,7 @@
 
 <p align="center"">
   <img 
-    src="assets/Rainbow.png" 
+    src="assets/rainbow.gif" 
     alt="Rainbow Logo" 
     width="100%"
     />
