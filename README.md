@@ -128,7 +128,10 @@
 </p>
 
 <p align="center" style="wdith:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
+  <img src="assets/rainbow.gif" 
+    alt="Rainbow Logo" 
+    width="100%"
+    />-
 </p>
 
 ## Mentorship & Guidance
