@@ -22,7 +22,7 @@
 
 <p align="center"">
   <img 
-    src="assets/rainbow.gif" 
+    src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnowN3dlbTdtdHF5aDQydjY4ejAxb2gzdzQyM3U2eXduODVyZ2N1YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nuqiQBZS88N3mDUvly/giphy.webp" 
     alt="Rainbow Logo" 
     width="100%"
     />
