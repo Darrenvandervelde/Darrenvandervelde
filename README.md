@@ -2,13 +2,13 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG05NnBkaW5kZzVyd3RhM21mM3ltcmhscWE5dTM2OXJwZm53M2ZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MBVRgrfOBPeH5zNWJU/giphy.gif"
     alt="JavaScript Data Visuals"
     width="100%"
-    height="250"
+    height="275"
   />
     <img 
      src="https://avatars.githubusercontent.com/u/241697224?s=400&u=944bd996498dbd5324895b1c6d93bbf78081c705&v=4" 
      alt="Darren van der Velde" 
-     width="250" 
-     height="250" 
+     width="125" 
+     height="125" 
      style="border-radius: 50%;"/> 
 </p>
 
