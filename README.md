@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" height="220"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%" height="220"/>
 </p>
+
+
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/241697224?s=400&u=944bd996498dbd5324895b1c6d93bbf78081c705&v=4" alt="Darren van der Velde" width="150" height="150" style="border-radius: 50%;"/>
