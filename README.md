@@ -8,7 +8,9 @@
 </p>
 
 <!-- Profile Picture -->
-<p align="center">
+<p 
+  align="center"
+  style="background: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ0ODh2MjZ1ODk3bXcxMndmamRjZmhjbXFzem5iMzZjOG11bXplbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dYsbDcbfiGwwyVpMWf/giphy.webp");">
   <img 
      src="https://avatars.githubusercontent.com/u/241697224?s=400&u=944bd996498dbd5324895b1c6d93bbf78081c705&v=4" 
      alt="Darren van der Velde" 
