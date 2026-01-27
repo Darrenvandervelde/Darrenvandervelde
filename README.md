@@ -145,7 +145,9 @@ I help students with:
 Open a **Discussion** or **Issue** if you want guidance or feedback on your projects.  
 
 <p align="center" style="wdith:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
+  <img src="assets/rainbow.gif" 
+    alt="Rainbow Logo" 
+    width="100%"/>
 </p>
 
 ## Connect with Me
