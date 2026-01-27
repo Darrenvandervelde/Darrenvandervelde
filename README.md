@@ -1,12 +1,11 @@
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
-    alt="JavaScript Frameworks"
-    width="95%"
-    height="180"
+    src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"
+    alt="JavaScript Data Visuals"
+    width="90%"
+    height="160"
   />
 </p>
-
 
 <!-- Profile Picture -->
 <p align="center">
