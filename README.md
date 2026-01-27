@@ -7,16 +7,6 @@
   />
 </p>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZ0ODh2MjZ1ODk3bXcxMndmamRjZmhjbXFzem5iMzZjOG11bXplbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dYsbDcbfiGwwyVpMWf/giphy.webp"
-    width="100%"
-    height="180"
-    alt="JavaScript Background"
-  />
-</p>
-
 <p align="center">
   <img 
     src="https://avatars.githubusercontent.com/u/241697224?s=400&v=4"
