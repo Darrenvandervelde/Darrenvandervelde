@@ -1,10 +1,5 @@
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-    alt="Coding Banner"
-    width="100%"
-    height="220"
-  />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" height="220"/>
 </p>
 <!-- Profile Picture -->
 <p align="center">
