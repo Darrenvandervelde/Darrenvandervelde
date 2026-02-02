@@ -141,11 +141,11 @@
   </a>
 
   <a href="https://github.com/Darrenvandervelde/Room-Rentals">
-    <img src="https://github.com/Darrenvandervelde/Room-Rentals/Screenshot.png" width="300" />
+    <img src="https://github.com/Darrenvandervelde/Room-Rentals/raw/main/Screenshot.png" width="300" />
   </a>
 
-  <a href="https://github.com/Darrenvandervelde/Cape-Town-Tourist">
-    <img src="https://github.com/Darrenvandervelde/Cape-Town-Tourist/Screenshot.png" width="300" />
+  <a href="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs">
+    <img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/raw/main/screenshot.png" width="300" />
   </a>
 </p>
 
