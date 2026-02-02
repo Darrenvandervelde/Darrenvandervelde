@@ -155,7 +155,7 @@
 
 <div>
   <h3>Cape Town Tourist</h3>
-  <img src="https://github.com/Darrenvandervelde/Cape-Town-Tourist/Screenshot.png" width="100%" />
+  <img src="https://github.com/Darrenvandervelde/Cape-Town-Tourist/Screenshot.png" width="300" height="150" />
   <p>
     Tourist blog website showcasing attractions and travel info.
   </p>
