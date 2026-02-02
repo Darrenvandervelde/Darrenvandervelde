@@ -46,7 +46,10 @@ Hi, I'm <strong>Darren van der Velde</strong>
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
 
-## Skills & Tools
+<div align="center" >
+  <h2 align="center" >Skills & Tools</h2>
+</div>
+
 
 ### Programming Languages
 <p align="left">
