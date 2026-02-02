@@ -31,7 +31,9 @@ Hi, I'm <strong>Darren van der Velde</strong>
   </a>
 </p>
 
----
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p
 
 ## Skills & Tools
 
