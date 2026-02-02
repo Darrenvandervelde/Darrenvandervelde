@@ -139,7 +139,7 @@
 
 <div>
   <h3>SIBS Music Website</h3>
-  <img src="https://github.com/Darrenvandervelde/SIBS-Music-Website/screenshot.png" width="100%" />
+  <img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/blob/main/screenshot.png" width="100%" />
   <p>
     Official artist website with Spotify embeds and glassmorphism UI.
   </p>
