@@ -51,12 +51,7 @@
     />
 </p>
 
-<div align="center">
-<h1>GitHub Stats</h1>
-<p align="center">
-  <img src="https://ghchart.rshah.org/darrenvandervelde" height="150" />
-</p>
-</div>
+
 
 <div align="center">
   <h1>Skill & Tools</h1>
@@ -139,6 +134,13 @@
     width="100%"
     />
 </p>
+
+<div align="center">
+<h1>GitHub Stats</h1>
+<p align="center">
+  <img src="https://ghchart.rshah.org/darrenvandervelde" height="150" />
+</p>
+</div>
 
 ## Mentorship & Guidance
 
