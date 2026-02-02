@@ -35,6 +35,17 @@ Hi, I'm <strong>Darren van der Velde</strong>
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/darrenvandervelde" />
+</p>
+
+
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p
+
 ## Skills & Tools
 
 ### Programming Languages
@@ -150,15 +161,9 @@ Official artist website with Spotify embeds and glassmorphism UI.
 </tr>
 </table>
 
----
-
-## GitHub Activity
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/darrenvandervelde" />
-</p>
-
----
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p
 
 ## Mentorship & Guidance
 
@@ -170,7 +175,9 @@ I help students with:
 
 Open a **Discussion** or **Issue** if you want guidance or feedback.
 
----
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p
 
 ## Connect with Me
 
