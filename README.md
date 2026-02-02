@@ -168,15 +168,4 @@ Official artist website with Spotify embeds and glassmorphism UI.
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
 
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/Darren-van-der-velde">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:darrenvandervelde@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
 <p align="center"><strong>Thanks for visiting my GitHub profile!</strong></p>
