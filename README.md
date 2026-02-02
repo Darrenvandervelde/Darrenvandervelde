@@ -16,7 +16,7 @@
     width="125"
     height="125"
     style="border-radius:50%; margin-top:-600px;"
-  /> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdldW1tZWUyeXp0eG00MmUzOXZrdTJmOGR4bm1hYXlrN3l2NmNjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fGHSIjGVYSxq3HApkx/giphy.gif">
+  /> 
 </p>
 
 
