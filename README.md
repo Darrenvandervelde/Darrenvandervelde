@@ -137,7 +137,7 @@
 
 <p align="center">
   <a href="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series">
-    <img src="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series/ProjectImg1.png" width="300" />
+    <img src="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series/raw/main/ProjectImg1.png" width="300" />
   </a>
 
   <a href="https://github.com/Darrenvandervelde/Room-Rentals">
