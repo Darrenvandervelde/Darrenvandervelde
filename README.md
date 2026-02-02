@@ -36,10 +36,10 @@ Hi, I'm <strong>Darren van der Velde</strong>
 </p
 
 <div align="center">
-  <h2>GitHub Activity</h2> 
-<p>
-  <img src="https://ghchart.rshah.org/darrenvandervelde" />
-</p>
+  <h2 align="center" >GitHub Activity</h2> 
+  <p align="center">
+    <img src="https://ghchart.rshah.org/darrenvandervelde" />
+  </p>
 </div>
 
 <p align="center">
