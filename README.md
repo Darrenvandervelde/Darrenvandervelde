@@ -35,13 +35,12 @@ Hi, I'm <strong>Darren van der Velde</strong>
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
 
-<p align="center">
-
-  <h2>GitHub Activity</h2>
-  
+<div align="center">
+  <h2>GitHub Activity</h2> 
+<p>
   <img src="https://ghchart.rshah.org/darrenvandervelde" />
 </p>
-
+</div>
 
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
