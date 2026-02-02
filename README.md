@@ -152,8 +152,7 @@ UI/UX-focused room booking interface with responsive layouts.
 ### Ebooks Online  
 <img src="https://github.com/Darrenvandervelde/Ebooks-Online/raw/main/Screenshot.png" width="100%"/>
 
-Website for browsing and downloading ebooks, with a clean modern layout and social media integration.  
-**Tech:** HTML, CSS, JavaScript
+Website for browsing and downloading ebooks, with a clean modern layout and social media integration.
 
 [Repository](https://github.com/Darrenvandervelde/Ebooks-Online) •  
 [Live Demo](https://ebooks-online.vercel.app/)
