@@ -8,18 +8,25 @@
   />
 </p>
 
-<h1 align="center">Darren van der Velde</h1>
+<!-- Header -->
+<h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
+Hi, I'm <strong>Darren van der Velde</strong>
+</h1>
+
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p>
+
 <h3 align="center">GitHub Mentor | Data & Software Development</h3>
 
 <p align="center">
   Empowering <strong>coding & data students</strong> through real-world, hands-on projects.<br/>
-  Focused on <strong>Web Development, Data Visualization, AI</strong>, and <strong>clean UI/UX</strong>.
+  Passionate about <strong>Web Development, Data Visualization, AI</strong>.<br/>
+  Focused on <strong>clean code, intuitive UI/UX, and practical problem-solving</strong>.
 </p>
 
 <p align="center">
-  <a href="https://darrenvandervelde.free.nf/" target="_blank">
-    <strong>Portfolio Website</strong>
-  </a>
+   <a href="https://darrenvandervelde.free.nf/" target="_blank"><strong>View My Website Portfolio</strong></a>
 </p>
 
 ---
@@ -27,33 +34,32 @@
 ## Skills & Tools
 
 ### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge">
 </p>
 
 ### Web & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </p>
 
 ### Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge">
 </p>
 
 ---
