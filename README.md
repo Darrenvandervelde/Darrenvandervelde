@@ -23,7 +23,6 @@
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Hi, I'm <strong>Darren van der Velde</strong></h1>
 
-<!--
 <p align="center"">
   <img 
     src="assets/rainbow.gif" 
@@ -31,7 +30,6 @@
     width="100%"
     />
 </p>
--->
 
 <h2 align="center">GitHub Mentor | Data & Software Development</h2>
 
@@ -45,14 +43,13 @@
    <a href="https://darrenvandervelde.free.nf/" target="_blank"><strong>View My Website Portfolio</strong></a>
 </p>
 
-<!--
+
 <p align="center">
   <img src="assets/rainbow.gif" 
     alt="Rainbow Logo" 
     width="100%"
     />
 </p>
--->
 
 <div align="center">
 <h1>GitHub Stats</h1>
@@ -65,14 +62,13 @@
   <h1>Skill & Tools</h1>
 </div>
 
-<!--
+
 <p align="center" style="wdith:100%;">
   <img src="assets/rainbow.gif" 
     alt="Rainbow Logo" 
     width="100%"
     />
 </p>
--->
 
 ### Programing Languages
 <p align="left">
@@ -136,14 +132,13 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-<!--
+
 <p align="center" style="wdith:100%;">
   <img src="assets/rainbow.gif" 
     alt="Rainbow Logo" 
     width="100%"
-    />-
+    />
 </p>
--->
 
 ## Mentorship & Guidance
 
@@ -155,13 +150,11 @@ I help students with:
 
 Open a **Discussion** or **Issue** if you want guidance or feedback on your projects.  
 
-<!--
 <p align="center" style="wdith:100%;">
   <img src="assets/rainbow.gif" 
     alt="Rainbow Logo" 
     width="100%"/>
 </p>
---> 
 
 
 ## Connect with Me
