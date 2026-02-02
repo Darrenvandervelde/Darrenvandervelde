@@ -168,20 +168,6 @@ Official artist website with Spotify embeds and glassmorphism UI.
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
 
-## Mentorship & Guidance
-
-I help students with:
-- Git & GitHub workflows  
-- Data projects (Python, SQL, APIs, dashboards)  
-- Web development fundamentals  
-- Clean code & project structure  
-
-Open a **Discussion** or **Issue** if you want guidance or feedback.
-
-<p align="center">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
-</p
-
 ## Connect with Me
 
 <p align="center">
