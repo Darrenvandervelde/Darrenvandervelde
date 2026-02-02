@@ -139,11 +139,11 @@
 
 <div>
   <h3>SIBS Music Website</h3>
-  <img src="SIBS-Music-Website/screenshot.png" width="100%" />
+  <img src="https://github.com/Darrenvandervelde/SIBS-Music-Website/screenshot.png" width="100%" />
   <p>
     Official artist website with Spotify embeds and glassmorphism UI.
   </p>
-  <a href="https://github.com/yourusername/Music-Website-For-an-Artist-Called-Sibs-">
+  <a href="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-">
     GitHub
   </a> |
   <a href="https://music-website-for-an-artist-called.vercel.app/">
@@ -155,11 +155,11 @@
 
 <div>
   <h3>Cape Town Tourist</h3>
-  <img src="https://github.com/yourusername/Cape-Town-Tourist/Screenshot.png" width="100%" />
+  <img src="https://github.com/Darrenvandervelde/Cape-Town-Tourist/Screenshot.png" width="100%" />
   <p>
     Tourist blog website showcasing attractions and travel info.
   </p>
-  <a href="https://github.com/yourusername/Cape-Town-Tourist">
+  <a href="https://github.com/Darrenvandervelde/Cape-Town-Tourist">
     GitHub
   </a> |
   <a href="https://cape-town-tourist.vercel.app/">
