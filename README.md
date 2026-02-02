@@ -98,7 +98,9 @@ Hi, I'm <strong>Darren van der Velde</strong>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
----
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p
 
 ## Featured Projects
 
