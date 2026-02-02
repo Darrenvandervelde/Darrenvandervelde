@@ -137,15 +137,15 @@
 
 <p align="center">
   <a href="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series">
-    <img src="Fusion-Hub-Movies-TV-Series/ProjectImg1.png" width="300" />
+    <img src="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series/ProjectImg1.png" width="300" />
   </a>
 
-  <a href="https://github.com/yourusername/Room-Rentals">
-    <img src="Room-Rentals/Screenshot.png" width="300" />
+  <a href="https://github.com/Darrenvandervelde/Room-Rentals">
+    <img src="https://github.com/Darrenvandervelde/Room-Rentals/Screenshot.png" width="300" />
   </a>
 
-  <a href="https://github.com/yourusername/Cape-Town-Tourist">
-    <img src="Cape-Town-Tourist/Screenshot.png" width="300" />
+  <a href="https://github.com/Darrenvandervelde/Cape-Town-Tourist">
+    <img src="https://github.com/Darrenvandervelde/Cape-Town-Tourist/Screenshot.png" width="300" />
   </a>
 </p>
 
