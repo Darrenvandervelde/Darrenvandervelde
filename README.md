@@ -35,9 +35,10 @@ Hi, I'm <strong>Darren van der Velde</strong>
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
 
-## GitHub Activity
-
 <p align="center">
+
+  <h2>GitHub Activity</h2>
+  
   <img src="https://ghchart.rshah.org/darrenvandervelde" />
 </p>
 
