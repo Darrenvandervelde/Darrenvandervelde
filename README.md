@@ -133,6 +133,40 @@
 </p>
 </div>
 
+<h1 align="center">Featured Projects</h1>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Fusion Hub – Movies & TV</h3>
+      <img src="Fusion-Hub-Movies-TV-Series/ProjectImg1.png" width="100%" />
+      <p>
+        Movie & TV browsing platform inspired by streaming services.
+      </p>
+      <a href="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series">
+        View Repository
+      </a> |
+      <a href="https://basic-project-with-read-me.vercel.app">
+        Live Demo
+      </a>
+    </td>
+
+  <td width="50%">
+      <h3>Room Rentals</h3>
+      <img src="Room-Rentals/Screenshot.png" width="100%" />
+      <p>
+        UI/UX design for a modern room booking platform.
+      </p>
+      <a href="https://github.com/Darrenvandervelde/Room-Rentals">
+        View Repository
+      </a> |
+      <a href="https://room-rentals-nu.vercel.app/">
+        Live Demo
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Mentorship & Guidance
 
 I help students with:  
