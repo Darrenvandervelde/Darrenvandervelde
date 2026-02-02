@@ -149,6 +149,18 @@ UI/UX-focused room booking interface with responsive layouts.
 <tr>
 <td width="50%">
 
+### Ebooks Online  
+<img src="https://github.com/Darrenvandervelde/Ebooks-Online/raw/main/Screenshot.png" width="100%"/>
+
+Website for browsing and downloading ebooks, with a clean modern layout and social media integration.  
+**Tech:** HTML, CSS, JavaScript
+
+[Repository](https://github.com/Darrenvandervelde/Ebooks-Online) •  
+[Live Demo](https://ebooks-online.vercel.app/)
+
+</td>
+<td width="50%">
+
 ### SIBS Music Website  
 <img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/raw/main/screenshot.png" width="100%"/>
 
@@ -158,8 +170,6 @@ Official artist website with Spotify embeds and glassmorphism UI.
 [Repository](https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-) •  
 [Live Demo](https://music-website-for-an-artist-called.vercel.app/)
 
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
