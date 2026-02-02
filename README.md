@@ -44,15 +44,6 @@
 </p>
 
 
-<p align="center">
-  <img src="assets/rainbow.gif" 
-    alt="Rainbow Logo" 
-    width="100%"
-    />
-</p>
-
-
-
 <div align="center">
   <h1>Skill & Tools</h1>
 </div>
