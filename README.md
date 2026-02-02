@@ -133,39 +133,22 @@
 </p>
 </div>
 
-<h1 align="center">Featured Projects</h1>
+<h2 align="center">Projects</h2>
 
-<h2>Projects</h2>
-
-<div>
-  <h3>SIBS Music Website</h3>
-  <img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/blob/main/screenshot.png" width="300" height="150"/>
-  <p>
-    Official artist website with Spotify embeds and glassmorphism UI.
-  </p>
-  <a href="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-">
-    GitHub
-  </a> |
-  <a href="https://music-website-for-an-artist-called.vercel.app/">
-    Live Demo
+<p align="center">
+  <a href="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series">
+    <img src="Fusion-Hub-Movies-TV-Series/ProjectImg1.png" width="300" />
   </a>
-</div>
 
-<hr/>
-
-<div>
-  <h3>Cape Town Tourist</h3>
-  <img src="https://github.com/Darrenvandervelde/Cape-Town-Tourist/Screenshot.png" width="300" height="150" />
-  <p>
-    Tourist blog website showcasing attractions and travel info.
-  </p>
-  <a href="https://github.com/Darrenvandervelde/Cape-Town-Tourist">
-    GitHub
-  </a> |
-  <a href="https://cape-town-tourist.vercel.app/">
-    Live Demo
+  <a href="https://github.com/yourusername/Room-Rentals">
+    <img src="Room-Rentals/Screenshot.png" width="300" />
   </a>
-</div>
+
+  <a href="https://github.com/yourusername/Cape-Town-Tourist">
+    <img src="Cape-Town-Tourist/Screenshot.png" width="300" />
+  </a>
+</p>
+
 
 
 ## Mentorship & Guidance
