@@ -1,11 +1,5 @@
 <!-- Profile Avatar -->
-<p align="center">
-  <img 
-    src="BannerJS.gif"
-    style="border-radius:50%;"
-  />
-</p>
-<!--
+
 <p align="center">
   <img 
     src="https://avatars.githubusercontent.com/u/241697224?s=400&v=4"
@@ -14,7 +8,7 @@
     style="border-radius:50%;"
   />
 </p>
--->
+
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
 Hi, I'm <strong>Darren van der Velde</strong>
@@ -195,5 +189,12 @@ Official artist website with Spotify embeds and glassmorphism UI.
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
+
+<p align="center">
+  <img 
+    src="BannerJS.gif"
+    style="border-radius:50%;"
+  />
+</p>
 
 <p align="center"><strong>Thanks for visiting my GitHub profile!</strong></p>
