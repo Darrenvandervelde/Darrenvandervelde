@@ -128,8 +128,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
 Streaming-style movie & TV browsing platform inspired by Netflix.  
 **Tech:** HTML, CSS, JavaScript
 
-[Repository](https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series) •  
-[Live Demo](https://basic-project-with-read-me.vercel.app)
+[Repository](https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series)  [Live Demo](https://Fusion-Hub-Movies-TV-Series.vercel.app)
 
 </td>
 <td width="50%">
@@ -140,8 +139,7 @@ Streaming-style movie & TV browsing platform inspired by Netflix.
 UI/UX-focused room booking interface with responsive layouts.  
 **Tech:** HTML, CSS
 
-[Repository](https://github.com/Darrenvandervelde/Room-Rentals) •  
-[Live Demo](https://room-rentals-nu.vercel.app/)
+[Repository](https://github.com/Darrenvandervelde/Room-Rentals)  [Live Demo](https://room-rentals-nu.vercel.app/)
 
 </td>
 </tr>
@@ -154,8 +152,7 @@ UI/UX-focused room booking interface with responsive layouts.
 
 Website for browsing and downloading ebooks, with a clean modern layout and social media integration.
 
-[Repository](https://github.com/Darrenvandervelde/Ebooks-Online) •  
-[Live Demo](https://ebooks-online.vercel.app/)
+[Repository](https://github.com/Darrenvandervelde/Ebooks-Online)  [Live Demo](https://ebooks-online.vercel.app/)
 
 </td>
 <td width="50%">
@@ -166,8 +163,7 @@ Website for browsing and downloading ebooks, with a clean modern layout and soci
 Official artist website with Spotify embeds and glassmorphism UI.  
 **Tech:** HTML, CSS, JavaScript
 
-[Repository](https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-) •  
-[Live Demo](https://music-website-for-an-artist-called.vercel.app/)
+[Repository](https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-)  [Live Demo](https://music-website-for-an-artist-called.vercel.app/)
 
 </td>
 </tr>
