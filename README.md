@@ -122,6 +122,8 @@ Hi, I'm <strong>Darren van der Velde</strong>
 <tr>
 <td width="50%">
 
+<br />
+
 ### Fusion Hub – Movies & TV  
 <img src="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series/raw/main/ProjectImg1.png" width="100%"/>
 
@@ -135,6 +137,8 @@ Streaming-style movie & TV browsing platform inspired by Netflix.
 </td>
 <td width="50%">
 
+<br />
+
 ### Room Rentals  
 <img src="https://github.com/Darrenvandervelde/Room-Rentals/raw/main/Screenshot.png" width="100%"/>
 
@@ -143,11 +147,15 @@ UI/UX-focused room booking interface with responsive layouts.
 
 [Repository](https://github.com/Darrenvandervelde/Room-Rentals)  [Live Demo](https://room-rentals-nu.vercel.app/)
 
+<br />
+
 </td>
 </tr>
 
 <tr>
 <td width="50%">
+
+<br />
 
 ### Ebooks Online  
 <img src="https://github.com/Darrenvandervelde/Ebooks-Online/raw/main/Screenshot.png" width="100%"/>
@@ -156,8 +164,12 @@ Website for browsing and downloading ebooks, with a clean modern layout and soci
 
 [Repository](https://github.com/Darrenvandervelde/Ebooks-Online)  [Live Demo](https://ebooks-online.vercel.app/)
 
+<br />
+
 </td>
 <td width="50%">
+
+<br />
 
 ### SIBS Music Website  
 <img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/raw/main/screenshot.png" width="100%"/>
@@ -166,6 +178,8 @@ Official artist website with Spotify embeds and glassmorphism UI.
 **Tech:** HTML, CSS, JavaScript
 
 [Repository](https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-)  [Live Demo](https://music-website-for-an-artist-called.vercel.app/)
+
+<br />
 
 </td>
 </tr>
