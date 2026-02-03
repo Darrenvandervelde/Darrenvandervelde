@@ -196,5 +196,8 @@ Official artist website with Spotify embeds and glassmorphism UI.
     style="border-radius:50%;"
   />
 </p>
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p
 
 <p align="center"><strong>Thanks for visiting my GitHub profile!</strong></p>
