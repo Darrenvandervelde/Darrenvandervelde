@@ -1,6 +1,15 @@
 <!-- Profile Avatar -->
 <p align="center">
   <img 
+    src="BannerJS.gif"
+    width="140"
+    height="140"
+    style="border-radius:50%;"
+  />
+</p>
+
+<p align="center">
+  <img 
     src="https://avatars.githubusercontent.com/u/241697224?s=400&v=4"
     width="140"
     height="140"
