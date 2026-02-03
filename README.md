@@ -5,7 +5,7 @@
     style="border-radius:50%;"
   />
 </p>
-
+<!--
 <p align="center">
   <img 
     src="https://avatars.githubusercontent.com/u/241697224?s=400&v=4"
@@ -14,7 +14,7 @@
     style="border-radius:50%;"
   />
 </p>
-
+-->
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
 Hi, I'm <strong>Darren van der Velde</strong>
