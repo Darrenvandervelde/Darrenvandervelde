@@ -130,6 +130,8 @@ Streaming-style movie & TV browsing platform inspired by Netflix.
 
 [Repository](https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series)  [Live Demo](https://Fusion-Hub-Movies-TV-Series.vercel.app)
 
+<br />
+
 </td>
 <td width="50%">
 
