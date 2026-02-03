@@ -2,8 +2,6 @@
 <p align="center">
   <img 
     src="BannerJS.gif"
-    width="140"
-    height="140"
     style="border-radius:50%;"
   />
 </p>
