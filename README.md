@@ -204,12 +204,12 @@ Official artist website with Spotify embeds and glassmorphism UI.
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
-<p align="center">
+<div align="center">
 
 ![Darren van der velde Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false)
 ![Darren van der velde Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false)
   
-</p>
+</div>
 
 
 <p align="center"><strong>Thanks for visiting my GitHub profile!</strong></p>
