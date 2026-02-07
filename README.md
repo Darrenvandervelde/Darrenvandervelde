@@ -16,11 +16,11 @@ Hi, I'm <strong>Darren van der Velde</strong>
 -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Darren+Van+Der+Velde;I'm+a+Full-Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Darren+Van+Der+Velde;I'm+a+Full-Stack+Developer;Data+Analysis;Data+Scienctest" alt="Typing+Font" />
 </p>
 
 <p align="center">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" /
 </p>
 
 <h3 align="center">GitHub Mentor | Data & Software Development</h3>
