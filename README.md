@@ -15,7 +15,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Darren Van Der Velde;I'm+a+Full-stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&width=600&lines=Hi%2C+I'm+Darren_Van_Der_Velde;I'm+a+Full-stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
