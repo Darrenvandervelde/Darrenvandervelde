@@ -27,7 +27,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
 
 <p align="center">
   Empowering <strong>coding & data students</strong> through real-world, hands-on projects.<br/>
-  Passionate about <strong>Web Development, Data Visualization, AI</strong>.<br/>
+  Passionate about <strong>Web Development, Data Visualization.</strong>.<br/>
   Focused on <strong>clean code, intuitive UI/UX, and practical problem-solving</strong>.
 </p>
 
