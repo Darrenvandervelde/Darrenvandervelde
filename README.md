@@ -57,6 +57,15 @@ Hi, I'm <strong>Darren van der Velde</strong>
 </div>
 
 ### Programming Languages
+
+<p align="left">
+  <i class="devicon-git-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-github-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-javascript-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-java-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-cplusplus-plain colored" style="font-size: 40px;"></i>
+</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
