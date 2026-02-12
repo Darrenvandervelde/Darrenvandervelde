@@ -207,13 +207,7 @@ Official artist website with Spotify embeds and glassmorphism UI.
 <div align="center">
    <h2 align="center" >GitHub Streak</h2> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="60%">
-</div>
-
-<div align="center">
-
-![Darren van der velde Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false)
-![Darren van der velde Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Daysiders?cardType=github&theme=gruvbox&preferLogin=false)
-  
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false" alt="GitHub Streak" width="60%">
 </div>
 
 
