@@ -51,7 +51,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
 <!-- GitHub Streak -->
 <p align="center">
    <h2 align="center" >GitHub Streak</h2> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="100%">
 </p>
 
 
