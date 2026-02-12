@@ -20,7 +20,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
 </p>
 
 <p align="center">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" /
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
 
 <h3 align="center">GitHub Mentor | Data & Software Development</h3>
@@ -49,10 +49,10 @@ Hi, I'm <strong>Darren van der Velde</strong>
 </div>
 
 <!-- GitHub Streak -->
-<p align="center">
+<div align="center">
    <h2 align="center" >GitHub Streak</h2> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="100%">
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="60%">
+</div>
 
 
 <p align="center">
