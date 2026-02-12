@@ -57,97 +57,112 @@ Hi, I'm <strong>Darren van der Velde</strong>
 </div>
 
 
-### Programming Languages
+### Programming & Core Languages
 <table align="center">
   <tr>
-  
-  <td align="center" width="88">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44"/><br>Java
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/><br>Git
     </td>
-  
-  <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44"/><br>HTML
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>GitHub
     </td>
-       
-  <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44"/><br>CSS
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>JavaScript
     </td>
-    
-  <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44"/><br>JavaScript
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/><br>Java
     </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44"/><br>TypeScript
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><br>C++
     </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44"/><br>Next.js
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44"/><br>React.js
-    </td>
-  
   </tr>
-  <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="44" height="44"/><br>Go
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/><br>C
     </td>
-     <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44"/><br>Tailwind CSS
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>SQL
     </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44"/><br>Node.js
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/><br>R
     </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44"/><br>Express.js
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Rust-16235B?style=for-the-badge&logo=rust&logoColor=red"/><br>Rust
     </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44"/><br>MongoDB
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/><br>Go
     </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="44" height="44"/><br>Flutter
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="44" height="44"/><br>Dart
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/><br>SQL Server
     </td>
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-16235B?style=for-the-badge&logo=rust&logoColor=red">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</p>
 
 ### Web & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>HTML5
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>CSS3
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br>React
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br>Node.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br>Express.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br>PHP
+    </td>
+  </tr>
+</table>
 
-### Data Science & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge">
-</p>
+
+### Version Control & Development Tools
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>Git
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>GitHub
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br>VS Code
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/><br>Jupyter
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/><br>Google Colab
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Replit-374785?style=for-the-badge&logo=replit&logoColor=white"/><br>Replit
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>Docker
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br>Kubernetes
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br>AWS
+    </td>
+  </tr>
+</table>
+
 
 ### Version Control & Development Tools
 <p align="left">
@@ -163,11 +178,20 @@ Hi, I'm <strong>Darren van der Velde</strong>
 </p>
 
 ### Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Mac-FCC624?style=for-the-badge&logo=mac&logoColor=red">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br>Linux
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white"/><br>MacOS
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br>Windows
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
