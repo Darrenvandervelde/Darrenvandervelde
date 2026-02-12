@@ -57,7 +57,6 @@ Hi, I'm <strong>Darren van der Velde</strong>
 </div>
 
 ### Programming Languages & Technologies
-
 <table align="center">
 <tr>
 <td align="center" width="88">
@@ -82,7 +81,6 @@ Hi, I'm <strong>Darren van der Velde</strong>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44"/><br>React.js
 </td>
 </tr>
-
 <tr>
 <td align="center" width="88">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="44" height="44"/><br>Go
@@ -109,82 +107,79 @@ Hi, I'm <strong>Darren van der Velde</strong>
 </table>
 
 ### Web & Frameworks
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>HTML5
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>CSS3
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br>React
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br>Node.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br>Express.js
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br>PHP
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>HTML5
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>CSS3
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br>React
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br>Node.js
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br>Express.js
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/><br>PHP
+</td>
+</tr>
 </table>
 
 ### Version Control & Development Tools
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>GitHub
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br>VS Code
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/><br>Jupyter
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/><br>Google Colab
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Replit-374785?style=for-the-badge&logo=replit&logoColor=white"/><br>Replit
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>Docker
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br>Kubernetes
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br>AWS
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>Git
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>GitHub
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br>VS Code
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/><br>Jupyter
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/><br>Google Colab
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Replit-374785?style=for-the-badge&logo=replit&logoColor=white"/><br>Replit
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>Docker
+</td>
+</tr>
+<tr>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><br>Kubernetes
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br>AWS
+</td>
+</tr>
 </table>
 
 ### Operating Systems
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br>Linux
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white"/><br>MacOS
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br>Windows
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br>Linux
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=apple&logoColor=white"/><br>MacOS
+</td>
+<td align="center" width="88">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br>Windows
+</td>
+</tr>
 </table>
+
 
 
 <p align="center">
