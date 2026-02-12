@@ -208,8 +208,6 @@ Official artist website with Spotify embeds and glassmorphism UI.
 </p>
 <div align="center">
 
-  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false">
-
 ![Darren van der velde Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false)
 ![Darren van der velde Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Daysiders?cardType=github&theme=gruvbox&preferLogin=false)
   
