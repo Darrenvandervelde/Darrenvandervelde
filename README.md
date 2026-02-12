@@ -48,16 +48,10 @@ Hi, I'm <strong>Darren van der Velde</strong>
   </p>
 </div>
 
-<!-- GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daysiders&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daysiders&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
-
 <!-- GitHub Streak -->
-<p align="left">
+<p align="center">
+   <h2 align="center" >GitHub Streak</h2> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Daysiders&theme=radical" alt="WakaTime Stats" width="48%">
 </p>
 
 
