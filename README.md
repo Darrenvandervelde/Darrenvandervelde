@@ -41,6 +41,24 @@ Hi, I'm <strong>Darren van der Velde</strong>
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
 
+<div align="center">
+  <h2 align="center" >GitHub Activity</h2> 
+  <p align="center">
+    <img src="https://ghchart.rshah.org/darrenvandervelde" />
+  </p>
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+   <h2 align="center" >GitHub Streak</h2> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="34%">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false" alt="GitHub Streak" width="30%">
+</div>
+
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p
+
 <div align="center" >
   <h2 align="center" >Skills & Tools</h2>
 </div>
@@ -195,20 +213,6 @@ Official artist website with Spotify embeds and glassmorphism UI.
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
-
-<div align="center">
-  <h2 align="center" >GitHub Activity</h2> 
-  <p align="center">
-    <img src="https://ghchart.rshah.org/darrenvandervelde" />
-  </p>
-</div>
-
-<!-- GitHub Streak -->
-<div align="center">
-   <h2 align="center" >GitHub Streak</h2> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="34%">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false" alt="GitHub Streak" width="30%">
-</div>
 
 
 <p align="center"><strong>Thanks for visiting my GitHub profile!</strong></p>
