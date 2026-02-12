@@ -50,14 +50,14 @@ Hi, I'm <strong>Darren van der Velde</strong>
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darrenvandervelde&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darrenvandervelde&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daysiders&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daysiders&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </p>
 
 <!-- GitHub Streak -->
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Darrenvandervelde&theme=radical" alt="WakaTime Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Daysiders&theme=radical" alt="WakaTime Stats" width="48%">
 </p>
 
 
