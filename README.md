@@ -56,41 +56,56 @@ Hi, I'm <strong>Darren van der Velde</strong>
   <h2 align="center" >Skills & Tools</h2>
 </div>
 
-### Programming & Core Languages
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/><br>Java
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><br>C++
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/><br>C
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>SQL
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/><br>R
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Rust-16235B?style=for-the-badge&logo=rust&logoColor=red"/><br>Rust
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/><br>Go
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/><br>SQL Server
-    </td>
-  </tr>
+### Programming Languages & Technologies
+
+<table align="center">
+<tr>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44"/><br>Java
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44"/><br>HTML
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44"/><br>CSS
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44"/><br>JavaScript
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44"/><br>TypeScript
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="44" height="44"/><br>Next.js
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44"/><br>React.js
+</td>
+</tr>
+
+<tr>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="44" height="44"/><br>Go
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44"/><br>Tailwind CSS
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44"/><br>Node.js
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="44" height="44"/><br>Express.js
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44"/><br>MongoDB
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="44" height="44"/><br>Flutter
+</td>
+<td align="center" width="88">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="44" height="44"/><br>Dart
+</td>
+</tr>
 </table>
 
 ### Web & Frameworks
