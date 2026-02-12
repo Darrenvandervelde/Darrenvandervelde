@@ -59,12 +59,13 @@ Hi, I'm <strong>Darren van der Velde</strong>
 ### Programming Languages
 
 <p align="left">
-  <i class="devicon-git-plain colored" style="font-size: 40px;"></i>
-  <i class="devicon-github-plain colored" style="font-size: 40px;"></i>
-  <i class="devicon-javascript-plain colored" style="font-size: 40px;"></i>
-  <i class="devicon-java-plain colored" style="font-size: 40px;"></i>
-  <i class="devicon-cplusplus-plain colored" style="font-size: 40px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-plain.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="40" height="40"/>
 </p>
+
 ## 2
 <p align="left">
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
