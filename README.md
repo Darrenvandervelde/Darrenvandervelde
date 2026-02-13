@@ -134,69 +134,71 @@ Hi, I'm <strong>Darren van der Velde</strong>
 ## Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-<br />
-
-### Fusion Hub – Movies & TV  
-<img src="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series/raw/main/ProjectImg1.png" width="100%"/>
-
-Streaming-style movie & TV browsing platform inspired by Netflix.  
-**Tech:** HTML, CSS, JavaScript
-
-[Repository](https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series)  [Live Demo](https://Fusion-Hub-Movies-TV-Series.vercel.app)
-
-<br />
-
-</td>
-<td width="50%">
-
-<br />
-
-### Game Hub 
-<img src="https://github.com/Darrenvandervelde/game-hub/raw/main/assets/Screenshot.png" width="100%"/>
-
-UI/UX-focused Game Hub framework.  
-**Tech:** HTML, CSS, javascript
-
-[Repository](https://github.com/Darrenvandervelde/game-hub/)  [Live Demo](https://game-hub-nu-beige.vercel.app/)
-
-<br />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<br />
-
-### SIBS Music Website  
-<img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/raw/main/screenshot.png" width="100%"/>
-
-Official artist website with Spotify embeds and glassmorphism UI.  
-**Tech:** HTML, CSS, JavaScript
-
-[Repository](https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-)  [Live Demo](https://music-website-for-an-artist-called.vercel.app/)
-
-<br />
-
-### Ebooks Online  
-<img src="https://github.com/Darrenvandervelde/Ebooks-Online/raw/main/Screenshot.png" width="100%"/>
-
-Website for browsing and downloading ebooks, with a clean modern layout and social media integration.
-
-[Repository](https://github.com/Darrenvandervelde/Ebooks-Online)  [Live Demo](https://ebooks-online.vercel.app/)
-
-<br />
-
-</td>
-<td width="50%">
-
-<br />
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <section>
+        <article>
+          <h3>Fusion Hub – Movies & TV</h3>
+          <figure>
+            <img src="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series/raw/main/ProjectImg1.png" alt="Fusion Hub Screenshot" style="width: 100%;" />
+          </figure>
+          <p>Streaming-style movie & TV browsing platform inspired by Netflix.</p>
+          <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+          <p>
+            <a href="https://github.com/Darrenvandervelde/Fusion-Hub-Movies-TV-Series" target="_blank" rel="noopener noreferrer">Repository</a> &nbsp;|&nbsp; 
+            <a href="https://Fusion-Hub-Movies-TV-Series.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+          </p>
+        </article>
+      </section>
+      
+  <section>
+        <article>
+          <h3>Game Hub</h3>
+          <figure>
+            <img src="https://github.com/Darrenvandervelde/game-hub/raw/main/assets/Screenshot.png" alt="Game Hub Screenshot" style="width: 100%;" />
+          </figure>
+          <p>UI/UX-focused Game Hub framework.</p>
+          <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+          <p>
+            <a href="https://github.com/Darrenvandervelde/game-hub/" target="_blank" rel="noopener noreferrer">Repository</a> &nbsp;|&nbsp; 
+            <a href="https://game-hub-nu-beige.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+          </p>
+        </article>
+      </section>
+    </td>
+    
+  <td width="50%">
+      <section>
+        <article>
+          <h3>SIBS Music Website</h3>
+          <figure>
+            <img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/raw/main/screenshot.png" alt="SIBS Music Website Screenshot" style="width: 100%;" />
+          </figure>
+          <p>Official artist website with Spotify embeds and glassmorphism UI.</p>
+          <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+          <p>
+            <a href="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-" target="_blank" rel="noopener noreferrer">Repository</a> &nbsp;|&nbsp; 
+            <a href="https://music-website-for-an-artist-called.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+          </p>
+        </article>
+      </section>
+      
+  <section>
+        <article>
+          <h3>Ebooks Online</h3>
+          <figure>
+            <img src="https://github.com/Darrenvandervelde/Ebooks-Online/raw/main/Screenshot.png" alt="Ebooks Online Screenshot" style="width: 100%;" />
+          </figure>
+          <p>Website for browsing and downloading ebooks, with a clean modern layout and social media integration.</p>
+          <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+          <p>
+            <a href="https://github.com/Darrenvandervelde/Ebooks-Online" target="_blank" rel="noopener noreferrer">Repository</a> &nbsp;|&nbsp; 
+            <a href="https://ebooks-online.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+          </p>
+        </article>
+      </section>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
