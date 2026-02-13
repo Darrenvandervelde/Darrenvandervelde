@@ -151,7 +151,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
         </article>
       </section>
 
---
+---
       
   <section>
         <article>
@@ -167,9 +167,10 @@ Hi, I'm <strong>Darren van der Velde</strong>
           </p>
         </article>
       </section>
-    </td>
 
 ---
+      
+ </td>
     
   <td width="50%">
       <section>
