@@ -196,7 +196,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
           <figure>
             <img src="https://github.com/Darrenvandervelde/Ebooks-Online/raw/main/Screenshot.png" alt="Ebooks Online Screenshot" style="width: 100%;" />
           </figure>
-          <p>Website for browsing and downloading ebooks, with a clean modern layout and social media integration.</p>
+          <p>Website for browsing and downloading ebook.</p>
           <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
           <p>
             <a href="https://github.com/Darrenvandervelde/Ebooks-Online" target="_blank" rel="noopener noreferrer">Repository</a> &nbsp;|&nbsp; 
