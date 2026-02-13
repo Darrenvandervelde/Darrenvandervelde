@@ -154,13 +154,13 @@ Streaming-style movie & TV browsing platform inspired by Netflix.
 
 <br />
 
-### Room Rentals  
-<img src="https://github.com/Darrenvandervelde/Room-Rentals/raw/main/Screenshot.png" width="100%"/>
+### Game Hub 
+<img src="https://github.com/Darrenvandervelde/game-hub/raw/main/assets/Screenshot.png" width="100%"/>
 
-UI/UX-focused room booking interface with responsive layouts.  
-**Tech:** HTML, CSS
+UI/UX-focused Game Hub framework.  
+**Tech:** HTML, CSS, javascript
 
-[Repository](https://github.com/Darrenvandervelde/Room-Rentals)  [Live Demo](https://room-rentals-nu.vercel.app/)
+[Repository](https://github.com/Darrenvandervelde/game-hub/)  [Live Demo](https://game-hub-nu-beige.vercel.app/)
 
 <br />
 
