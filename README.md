@@ -155,7 +155,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
       
   <section>
         <article>
-          <h3>Game Hub</h3>
+          <h3>Dragon Forge</h3>
           <figure>
             <img src="https://github.com/Darrenvandervelde/game-hub/raw/main/assets/Screenshot.png" alt="Game Hub Screenshot" style="width: 100%;" />
           </figure>
