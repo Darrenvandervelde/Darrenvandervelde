@@ -204,7 +204,10 @@ Hi, I'm <strong>Darren van der Velde</strong>
           </p>
         </article>
       </section>
-    </td>
+
+---
+    
+  </td>
   </tr>
 </table>
 
