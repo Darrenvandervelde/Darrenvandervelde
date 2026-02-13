@@ -172,6 +172,16 @@ UI/UX-focused Game Hub framework.
 
 <br />
 
+### SIBS Music Website  
+<img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/raw/main/screenshot.png" width="100%"/>
+
+Official artist website with Spotify embeds and glassmorphism UI.  
+**Tech:** HTML, CSS, JavaScript
+
+[Repository](https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-)  [Live Demo](https://music-website-for-an-artist-called.vercel.app/)
+
+<br />
+
 ### Ebooks Online  
 <img src="https://github.com/Darrenvandervelde/Ebooks-Online/raw/main/Screenshot.png" width="100%"/>
 
@@ -185,17 +195,6 @@ Website for browsing and downloading ebooks, with a clean modern layout and soci
 <td width="50%">
 
 <br />
-
-### SIBS Music Website  
-<img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/raw/main/screenshot.png" width="100%"/>
-
-Official artist website with Spotify embeds and glassmorphism UI.  
-**Tech:** HTML, CSS, JavaScript
-
-[Repository](https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-)  [Live Demo](https://music-website-for-an-artist-called.vercel.app/)
-
-<br />
-
 </td>
 </tr>
 </table>
