@@ -177,13 +177,13 @@ Hi, I'm <strong>Darren van der Velde</strong>
         <article>
           <h3>SIBS Music Website</h3>
           <figure>
-            <img src="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-/raw/main/screenshot.png" alt="SIBS Music Website Screenshot" style="width: 100%;" />
+            <img src="https://github.com/Darrenvandervelde/GalleryApp/raw/main/Screenshot%202026-02-16%20165937.png.png" alt="SIBS Music Website Screenshot" style="width: 100%;" />
           </figure>
-          <p>Official artist website with Spotify embeds and glassmorphism UI.</p>
-          <p><strong>Tech:</strong> HTML, CSS, JavaScript</p>
+          <p>Gallery App to show Design for pictures.</p>
+          <p><strong>Tech:</strong> React, JavaScript, Vercel</p>
           <p>
-            <a href="https://github.com/Darrenvandervelde/Music-Website-For-an-Artist-Called-Sibs-" target="_blank" rel="noopener noreferrer">Repository</a> &nbsp;|&nbsp; 
-            <a href="https://music-website-for-an-artist-called.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+            <a href="https://github.com/DarrenvanderveldeGalleryApp" target="_blank" rel="noopener noreferrer">Repository</a> &nbsp;|&nbsp; 
+            <a href="https://gallery-app-iota-bay.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
           </p>
         </article>
       </section>
