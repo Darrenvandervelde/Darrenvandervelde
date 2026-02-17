@@ -177,7 +177,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
         <article>
           <h3>SIBS Music Website</h3>
           <figure>
-            <img src="https://github.com/Darrenvandervelde/GalleryApp/raw/main/Screenshot%202026-02-16%20165937.png.png" alt="SIBS Music Website Screenshot" style="width: 100%;" />
+            <img src="https://github.com/Darrenvandervelde/GalleryApp/raw/main/Screenshot%202026-02-16%20165937.png" alt="SIBS Music Website Screenshot" style="width: 100%;" />
           </figure>
           <p>Gallery App to show Design for pictures.</p>
           <p><strong>Tech:</strong> React, JavaScript, Vercel</p>
