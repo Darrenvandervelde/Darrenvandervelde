@@ -39,25 +39,7 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
 
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
-</p
-
-<div align="center">
-  <h2 align="center" >GitHub Activity</h2> 
-  <p align="center">
-    <img src="https://ghchart.rshah.org/darrenvandervelde" />
-  </p>
-</div>
-
-<!-- GitHub Streak -->
-<div align="center">
-   <h2 align="center" >GitHub Streak</h2> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="34%">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false" alt="GitHub Streak" width="30%">
-</div>
-
-<p align="center">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
-</p
+</p>
 
 <div align="center" >
   <h2 align="center" >Skills & Tools</h2>
@@ -124,12 +106,28 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p
 
-
+<div align="center">
+  <h2 align="center" >GitHub Activity</h2> 
+  <p align="center">
+    <img src="https://ghchart.rshah.org/darrenvandervelde" />
+  </p>
+</div>
 
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
+
+
+<!-- GitHub Streak -->
+<div align="center">
+   <h2 align="center" >GitHub Streak</h2> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="34%">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false" alt="GitHub Streak" width="30%">
+</div>
 
 ## Featured Projects
 
