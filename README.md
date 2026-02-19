@@ -26,9 +26,9 @@ Hi, I'm <strong>Darren van der Velde</strong>
 <h3 align="center">GitHub & Portfolio Mentor | Data & Software Development</h3>
 
 <p align="center">
-  Empowering <strong>coding & data students</strong> through real-world, hands-on projects.<br/>
-  Passionate about <strong>Web Development, Data Visualization.</strong>.<br/>
-  Focused on <strong>clean code, intuitive UI/UX, and practical problem-solving</strong>.
+Supporting <strong>future developers and data specialists</strong> in building practical, industry-ready skills through structured, real-world projects.<br/><br/>
+Working across <strong>Full Stack Web Development and Data Visualization</strong>, combining technical depth with hands-on implementation.<br/><br/>
+Committed to <strong>writing scalable, high-quality code, designing intuitive user experiences, and solving real business problems</strong>.
 </p>
 
 <p align="center">
