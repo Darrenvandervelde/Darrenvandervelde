@@ -23,7 +23,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
 
-<h3 align="center">GitHub Mentor | Data & Software Development</h3>
+<h3 align="center">GitHub & Portfolio Mentor | Data & Software Development</h3>
 
 <p align="center">
   Empowering <strong>coding & data students</strong> through real-world, hands-on projects.<br/>
