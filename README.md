@@ -120,8 +120,8 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
 <!-- GitHub Streak -->
 <div align="center">
    <h2 align="center" >GitHub Streak</h2> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="34%">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false" alt="GitHub Streak" width="30%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="60%">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false" alt="GitHub Streak" width="60%">
 </div>
 
 <p align="center">
