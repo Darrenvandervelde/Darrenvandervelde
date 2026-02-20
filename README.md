@@ -58,6 +58,7 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
   <img src="https://img.shields.io/badge/Rust-16235B?style=for-the-badge&logo=rust&logoColor=red">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/bash-CC2927?style=for-the-badge&logo=bash&logoColor=white">
 </p>
 
 
