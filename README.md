@@ -216,7 +216,6 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
 <p align="center">
   <img 
     src="BannerJS.gif"
-    style="border-radius:50%;"
   />
 </p>
 <p align="center">
