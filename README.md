@@ -19,6 +19,8 @@ Hi, I'm <strong>Darren van der Velde</strong>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1&color=00C0FF&width=600&lines=Hi%2C+I'm+Darren+Van+Der+Velde;I'm+a+Full-Stack+Developer;and+Data+Analysis" alt="Typing+Font" />
 </p>
 
+<button>Clicked</button>
+
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
