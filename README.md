@@ -222,18 +222,4 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
 
-
-
-## API Endpoints
-
-| Method | Endpoint           | Description       |
-|--------|--------------------|-------------------|
-| POST   | /api/auth/register | Register new user |
-| POST   | /api/auth/login    | Login user        |
-| GET    | /api/items         | Get all items     |
-| POST   | /api/items         | Create new item   |
-| PUT    | /api/items/:id     | Update item       |
-| DELETE | /api/items/:id     | Delete item       |
-
-
 <p align="center"><strong>Thanks for visiting my GitHub profile!</strong></p>
