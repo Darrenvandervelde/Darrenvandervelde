@@ -43,7 +43,6 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
 
 <div align="center" >
   <h2 align="center" >Skills & Tools</h2>
-</div>
 <table align center>
   <tr>
     <th colspan="4">Programming Languages</th>
@@ -153,6 +152,7 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
     <td></td>
   </tr>
 </table>
+</div>
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
