@@ -44,7 +44,7 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
 <div align="center" >
   <h2 align="center" >Skills & Tools</h2>
 </div>
-<table>
+<table align center>
   <tr>
     <th colspan="4">Programming Languages</th>
   </tr>
@@ -53,9 +53,9 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
     <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></td>
     <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></td>
@@ -65,9 +65,11 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
     <td><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Command%20line-CC2927?style=for-the-badge&logo=commandline&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -81,9 +83,11 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></td>
     <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -97,16 +101,19 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
     <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></td>
-  </tr>
-  <tr>
     <td><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></td>
+  </tr>
+  <tr> 
     <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"></td>
-  </tr>
-  <tr>
     <td><img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -119,15 +126,17 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
     <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Replit-374785?style=for-the-badge&logo=replit&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -140,6 +149,7 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
     <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
     <td><img src="https://img.shields.io/badge/Mac-FCC624?style=for-the-badge&logo=mac&logoColor=red"></td>
     <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
