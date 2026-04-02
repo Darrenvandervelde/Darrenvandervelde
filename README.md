@@ -7,7 +7,15 @@
     height="140"
     style="border-radius:50%;"
   />
+   <img 
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGswdGVvM2I3am80MDdzYzd4eTdyd2U2Y2xmZWVhYmRlc3BpcnY5MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sPyKByNZWC5pY8KLQN/giphy.gif"
+    width="140"
+    height="140"
+    style="border-radius:50%;"
+  />
 </p>
+
+
 
 <!-- Header 
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
