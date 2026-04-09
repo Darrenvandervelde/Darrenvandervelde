@@ -31,7 +31,7 @@ Hi, I'm <strong>Darren van der Velde</strong>
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
 
-<h3 align="center">GitHub & Portfolio Mentor | Data & Software Development</h3>
+<h2 align="center">GitHub & Portfolio Mentor | Data & Software Development</h2>
 
 <p align="center">
 Supporting <strong>future developers and data specialists</strong> in building practical, industry-ready skills through structured, real-world projects.<br/><br/>
