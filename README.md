@@ -15,14 +15,15 @@
 
 # Meet the Developer 😎
 
-
 <p align="justify">
   <img src="https://github.com/user-attachments/assets/d6dfadcb-2641-47ce-b0fe-668f9bf78b22" align="right" width="250" style="margin-left:15px; border-radius:12px;" />
 
-  Full Stack Web Developer focused on building high-performance, user-centric web applications.
-  Specializing in modern technologies to deliver scalable, efficient, and maintainable solutions.
-  Passionate about solving real-world problems with clean, efficient code, and continuously exploring <b>AI and emerging technologies</b> to stay ahead of the curve..  
+  Full Stack Web Developer focused on building high-performance, user-centric web applications.  
+  Specializing in modern technologies to deliver scalable, efficient, and maintainable solutions.  
+  Passionate about solving real-world problems with clean, efficient code and continuously improving development skills.
 </p>
+
+**Tech Stack:** React, TypeScript, JavaScript, Node.js, Express.js
 
 <br clear="all"/>
 
