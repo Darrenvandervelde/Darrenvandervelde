@@ -1,25 +1,12 @@
-<!-- Profile Avatar -->
-
 <p align="center">
   <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDkwOHg0NzAxZzYxaWlyenRrZjd6cXBzaDFpZzFvMm5qc3lmNmdhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TVPDPxTsE1Lf2ppFmf/giphy.gif"
-    width="140"
-    height="140"
-    style="border-radius:50%;"
-  />
-   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGswdGVvM2I3am80MDdzYzd4eTdyd2U2Y2xmZWVhYmRlc3BpcnY5MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/sPyKByNZWC5pY8KLQN/giphy.gif"
-    width="140"
-    height="140"
-    style="border-radius:50%;"
+    src="BannerJS.gif"
   />
 </p>
 
-
-
 <!-- Header 
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
-Hi, I'm <strong>Darren van der Velde</strong>
+Meeting the <strong>Developer</strong>
 </h1>
 -->
 
@@ -221,12 +208,6 @@ Committed to <strong>writing scalable, high-quality code, designing intuitive us
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
-
-<p align="center">
-  <img 
-    src="BannerJS.gif"
-  />
-</p>
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
