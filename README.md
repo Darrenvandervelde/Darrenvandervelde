@@ -4,16 +4,20 @@
   />
 </p>
 
-<!-- Header 
-<h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
-Meeting the <strong>Developer</strong>
-</h1>
--->
+# 🔥 Meet the Developer
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1&color=00C0FF&width=600&lines=Hi%2C+I'm+Darren+Van+Der+Velde;I'm+a+Full-Stack+Developer;and+Data+Analysis" alt="Typing+Font" />
+<p align="justify">
+  <img src="https://github.com/user-attachments/assets/d6dfadcb-2641-47ce-b0fe-668f9bf78b22" align="right" width="250" style="margin-left:15px; border-radius:12px;" />
+
+Full Stack Web Developer dedicated to building high-performance, user-centric web applications. I specialize in modern technologies like <b>React, Node.js, Next.js, and Express</b> to deliver scalable and maintainable solutions.  
+
+Passionate about solving real-world problems with clean, efficient code, and continuously exploring <b>AI and emerging technologies</b> to stay ahead of the curve..  
+
+  <br/><br/>
+  <b>🚀 From vision to execution — with code that delivers 🚀</b>
 </p>
 
+<br clear="all"/>
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
