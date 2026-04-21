@@ -6,6 +6,10 @@
 
 # 🔥 Meet the Developer
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git
+
 <p align="justify">
   <img src="https://github.com/user-attachments/assets/d6dfadcb-2641-47ce-b0fe-668f9bf78b22" align="right" width="250" style="margin-left:15px; border-radius:12px;" />
 
