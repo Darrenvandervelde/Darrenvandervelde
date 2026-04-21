@@ -1,8 +1,17 @@
 <p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p>
+
+<p align="center">
   <img 
     src="BannerJS.gif"
   />
 </p>
+
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p>
+
 
 # Meet the Developer 😎
 
@@ -16,6 +25,7 @@
 </p>
 
 <br clear="all"/>
+
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
