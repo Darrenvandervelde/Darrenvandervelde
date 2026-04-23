@@ -1,3 +1,5 @@
+
+<!--
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
@@ -7,7 +9,7 @@
     src="BannerJS.gif"
   />
 </p>
-
+-->
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
