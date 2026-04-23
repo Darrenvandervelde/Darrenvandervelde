@@ -50,9 +50,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
-</p>
 
 <div align="center">
   <h2 align="center">Skills & Tools</h2>
