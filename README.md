@@ -1,24 +1,4 @@
-<div class="github-logo">
-  <img src="https://avatars.githubusercontent.com/u/241697224?v=4" alt="profile">
-</div>
 
-<style>
-.github-logo {
-  width: 150px;
-  height: 150px;
-  background: #0d1117; /* GitHub dark */
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.github-logo img {
-  width: 70%;
-  height: 70%;
-  border-radius: 50%;
-}
-</style>
 <!--
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
