@@ -127,7 +127,7 @@
 <div align="center">
   <h2 align="center" >Mr Cool Cat GitHub Activity</h2> 
   <p align="center">
-    <img src="https://github.com/Mr-Cool-Cat" />
+    <img src="https://ghchart.rshah.org/Mr-Cool-Cat" />
   </p>
 </div>
 
