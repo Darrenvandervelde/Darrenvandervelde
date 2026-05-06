@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/Git-31071c?style=flat-square&logo=git&logoColor=white">
 </div>
 
----
-
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=Darrenvandervelde" alt="GitHub Profile Trophy">
 </div>
