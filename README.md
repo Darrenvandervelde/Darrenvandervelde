@@ -1,18 +1,6 @@
-<!--
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
-
-<p align="center">
-  <img 
-    src="BannerJS.gif"
-  />
-</p>
--->
-<p align="center">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
-</p>
-
 
 # Meet the Developer 😎
 
@@ -36,21 +24,10 @@
   <img src="https://img.shields.io/badge/Git-31071c?style=flat-square&logo=git&logoColor=white">
 </div>
 
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Darrenvandervelde" alt="GitHub Profile Trophy">
-</div>
-
-
 <br clear="all"/>
 
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://darrenvandervelde.free.nf/" target="_blank">
-    <strong>View My Website Portfolio</strong>
-  </a>
 </p>
 
 
@@ -129,28 +106,9 @@
 </div>
 
 <div align="center">
-  <h2 align="center" >Mr Cool Cat GitHub Activity</h2> 
-  <p align="center">
-    <img src="https://ghchart.rshah.org/Mr-Cool-Cat" />
-  </p>
-</div>
-
-<!-- GitHub Streak -->
-<div align="center">
-   <h2 align="center" >GitHub Streak</h2> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=radical" alt="GitHub Streak" width="30%">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Darrenvandervelde?cardType=github&theme=gruvbox&preferLogin=false" alt="GitHub Streak" width="30%">
+   <img src="https://github-profile-trophy.vercel.app/?username=Darrenvandervelde" alt="GitHub Profile Trophy">
 </div>
 
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p
-
-<p align="center">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
-</p
-<p align="center">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
-</p>
-
-<p align="center"><strong>Thanks for visiting my GitHub profile!</strong></p>
