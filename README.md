@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/Git-31071c?style=flat-square&logo=git&logoColor=white">
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br clear="all"/>
 
