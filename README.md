@@ -118,9 +118,16 @@
 </p
 
 <div align="center">
-  <h2 align="center" >GitHub Activity</h2> 
+  <h2 align="center" >Personal GitHub Activity</h2> 
   <p align="center">
     <img src="https://ghchart.rshah.org/darrenvandervelde" />
+  </p>
+</div>
+
+<div align="center">
+  <h2 align="center" >Mr Cool Cat GitHub Activity</h2> 
+  <p align="center">
+    <img src="https://github.com/Mr-Cool-Cat" />
   </p>
 </div>
 
