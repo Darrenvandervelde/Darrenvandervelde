@@ -12,7 +12,7 @@
   Passionate about solving real-world problems with clean, efficient code and continuously improving development skills.
 </p>
 
-## My most skilled Languages I know:
+<p> My most skilled Languages I know:</p>
 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
