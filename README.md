@@ -90,11 +90,13 @@
      <img src="https://github-profile-trophy.vercel.app/?username=Darrenvandervelde" alt="GitHub Profile Trophy" align="center">
   </div>
 
+  <p align="center">
+    <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+  </p
+
 </div>
 
 
 
 
-<p align="center">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
-</p
+
