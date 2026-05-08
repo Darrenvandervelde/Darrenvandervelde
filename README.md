@@ -3,7 +3,7 @@
 </p>
 
 # Meet the Developer 😎
-<!--Th-->
+
 <p align="justify">
   <img 
     src="https://avatars.githubusercontent.com/u/241697224?v=4" 
