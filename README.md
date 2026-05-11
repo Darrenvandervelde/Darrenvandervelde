@@ -34,14 +34,14 @@
 # My Most Skilled Technologies 
 
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Three_Fiber-FF6B6B?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-31071c?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=plastic&logo=electron&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Three_Fiber-FF6B6B?style=plastic&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-31071c?style=plastic&logo=git&logoColor=white">
 </div>
 
 <br clear="all"/>
