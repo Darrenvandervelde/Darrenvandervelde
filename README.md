@@ -105,7 +105,7 @@
   <h2 align="center">🏆 Trophies</h2>
 
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Darrenvandervelde&theme=tokyonight&no-frame=true&row=1&column=6" 
+    <img src="https://github-profile-trophy.vercel.app/?username=Darrenvandervelde&margin-w=15" 
          alt="GitHub Profile Trophy" 
          align="center">
   </div>
