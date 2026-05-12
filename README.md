@@ -26,7 +26,7 @@
 
   
   I created <a href="https://github.com/NightShiftDeveloper/">Night Shift Developers</a> , an organization dedicated to helping students enhance their technical skills through active 
-  participation in collaborativeprojects. Members work on diverse initiatives that provide practical experience and professional development.
+  participation in collaborative projects. Members work on diverse initiatives that provide practical experience and professional development.
 
   Currently also working as a GitHub Mentor at <a href="https://www.itonlinelearning.com/" target="_blank">ITonlinelearning</a>, 
   helping aspiring developers improve their coding skills, GitHub workflows, portfolio projects, and modern development practices.
