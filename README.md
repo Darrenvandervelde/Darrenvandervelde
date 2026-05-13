@@ -33,23 +33,6 @@
 
 </p>
 
-<div align="center">
-  <h1> Currently In Development </h1>
-  <table>
-    <tr>
-      <!-- New World Online -->
-      <td>
-        <h2 align="center">New World Online</h2>
-        <p align="left">
-          New World Online is a browser-based 3D RPG/MMORPG built using Three.js and React. <br/>
-          The game combines real-time multiplayer gameplay, open-world exploration, RPG systems, <br />
-          and immersive 3D environments directly inside the browser using WebGL technology.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <br clear="all"/>
 
 # My Most Skilled Technologies 
@@ -126,6 +109,26 @@
          alt="GitHub Profile Trophy" 
          align="center">
   </div>
+<p align="center">
+    <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+  </p>
+  
+<div align="center">
+  <h1> Currently In Development </h1>
+  <table>
+    <tr>
+      <!-- New World Online -->
+      <td>
+        <h2 align="center">New World Online</h2>
+        <p align="left">
+          New World Online is a browser-based 3D RPG/MMORPG built using Three.js and React. <br/>
+          The game combines real-time multiplayer gameplay, open-world exploration, RPG systems, <br />
+          and immersive 3D environments directly inside the browser using WebGL technology.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
   <p align="center">
     <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
