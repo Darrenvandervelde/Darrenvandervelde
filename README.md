@@ -115,15 +115,43 @@
   
 <div align="center">
   <h1> Currently In Development </h1>
+
   <table>
     <tr>
       <!-- New World Online -->
-      <td>
-        <h2 align="center">New World Online</h2>
+      <td width="50%" valign="top">
+        <h2 align="center">
+          <a href="https://github.com/Darrenvandervelde/New-World-Online">
+            New World Online
+          </a>
+        </h2>
         <p align="left">
           New World Online is a browser-based 3D RPG/MMORPG built using Three.js and React. <br/>
-          The game combines real-time multiplayer gameplay, open-world exploration, RPG systems, <br />
+          The game combines real-time multiplayer gameplay, open-world exploration, RPG systems, <br/>
           and immersive 3D environments directly inside the browser using WebGL technology.
+        </p>
+        <p align="center">
+          <a href="https://github.com/Darrenvandervelde/New-World-Online">
+            <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <!-- React Folder Structures -->
+      <td width="50%" valign="top">
+        <h2 align="center">
+          <a href="https://github.com/Darrenvandervelde/React-Folder-Structures">
+            React Folder Structures
+          </a>
+        </h2>
+        <p align="left">
+          A collection of scalable React folder structure patterns designed to help developers <br/>
+          organize modern frontend applications more effectively. Includes examples for feature-based, <br/>
+          modular, enterprise, and scalable project architectures using React and TypeScript.
+        </p>
+        <p align="center">
+          <a href="https://github.com/Darrenvandervelde/React-Folder-Structures">
+            <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
         </p>
       </td>
     </tr>
