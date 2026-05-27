@@ -125,7 +125,7 @@
             New World Online
           </a>
         </h2>
-        <p align="left">
+        <p align="center">
           New World Online is a browser-based 3D RPG/MMORPG built using Three.js and React. <br/>
           The game combines real-time multiplayer gameplay, open-world exploration, RPG systems, <br/>
           and immersive 3D environments directly inside the browser using WebGL technology.
@@ -143,7 +143,7 @@
             React Folder Structures
           </a>
         </h2>
-        <p align="left">
+        <p align="center">
           A collection of scalable React folder structure patterns designed to help developers <br/>
           organize modern frontend applications more effectively. Includes examples for feature-based, <br/>
           modular, enterprise, and scalable project architectures using React and TypeScript.
