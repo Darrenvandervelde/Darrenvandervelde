@@ -103,12 +103,13 @@
   </p>
 
   <h2 align="center">Trophies</h2>
-
+<!--
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Darrenvandervelde&margin-w=15" 
          alt="GitHub Profile Trophy" 
          align="center">
   </div>
+-->
 <p align="center">
     <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
   </p>
