@@ -108,11 +108,10 @@
          alt="GitHub Profile Trophy" 
          align="center">
   </div>
--->
 <p align="center">
     <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
   </p>
-  
+  -->
 <div align="center">
   <h1> Currently In Development </h1>
 
@@ -131,7 +130,7 @@
           and immersive 3D environments directly inside the browser using WebGL technology.
         </p>
         <p align="center">
-          <a href="https://github.com/Darrenvandervelde/New-World-Online">
+          <a href="https://github.com/Darrenvandervelde/New-World-Online-Framework">
             <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
