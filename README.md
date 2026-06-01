@@ -9,7 +9,7 @@
     src="https://avatars.githubusercontent.com/u/241697224?v=4" 
     align="right" 
     width="250" 
-    style="margin-left:15px; border-radius:12px;" 
+    style="margin-left:15px;" 
   />
 
   Creative and passionate Game Developer focused on building immersive, interactive, and high-performance 
