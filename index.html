@@ -1,11 +1,20 @@
+---
+layout: null
+---
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meet the Developer | Portfolio</title>
+  <title>Darren van der Velde | Portfolio</title>
+  
+  <!-- Modern Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+
   <style>
-    /* Global Variables & Themes */
+    /* CSS Custom Properties (Theme Switcher) */
     :root[data-theme="dark"] {
       --bg-color: #0d1117;
       --card-bg: #161b22;
@@ -15,6 +24,7 @@
       --toggle-bg: #30363d;
       --toggle-btn: #f0f6fc;
       --shadow: rgba(0, 0, 0, 0.5);
+      --sidebar-bg: #111418;
     }
 
     :root[data-theme="light"] {
@@ -26,6 +36,7 @@
       --toggle-bg: #afb8c1;
       --toggle-btn: #24292f;
       --shadow: rgba(140, 149, 159, 0.15);
+      --sidebar-bg: #1f242c;
     }
 
     * {
@@ -34,40 +45,79 @@
       padding: 0;
       transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
     }
-
+    
     body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
       background-color: var(--bg-color);
       color: var(--text-color);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       line-height: 1.6;
-      padding: 20px;
     }
 
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-
-    /* Header & Theme Switcher */
-    header {
+    /* Layout Structure */
+    .portfolio-container {
       display: flex;
-      justify-content: flex-end;
-      align-items: center;
-      margin-bottom: 20px;
+      flex-direction: column;
+      min-height: 100vh;
     }
 
+    /* Sidebar Customization */
+    .sidebar {
+      background-color: var(--sidebar-bg);
+      color: #ffffff;
+      padding: 3rem 2rem;
+    }
+
+    .profile-sticky {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .my-name {
+      font-size: 2.3rem;
+      font-weight: 800;
+      letter-spacing: -1px;
+      line-height: 1.1;
+      background: linear-gradient(45deg, #ff7b00, #ffae00);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .tagline {
+      color: #a0a0a0;
+      font-size: 1.1rem;
+      font-weight: 400;
+    }
+
+    .nav-links a {
+      display: inline-block;
+      margin-right: 1.5rem;
+      color: #ffffff;
+      text-decoration: none;
+      font-weight: 600;
+      opacity: 0.6;
+      transition: opacity 0.2s;
+    }
+
+    .nav-links a:hover {
+      opacity: 1;
+    }
+
+    /* Theme Toggle Element */
     .theme-switch-wrapper {
       display: flex;
       align-items: center;
       gap: 10px;
+      margin-top: 1rem;
+      font-size: 0.9rem;
+      color: #a0a0a0;
     }
 
     .theme-switch {
       display: inline-block;
-      height: 26px;
+      height: 24px;
       position: relative;
-      width: 50px;
+      width: 46px;
     }
 
     .theme-switch input {
@@ -90,19 +140,51 @@
       background-color: var(--toggle-btn);
       bottom: 4px;
       content: "";
-      height: 18px;
+      height: 16px;
       left: 4px;
       position: absolute;
       transition: .4s;
-      width: 18px;
+      width: 16px;
       border-radius: 50%;
     }
 
     input:checked + .slider:before {
-      transform: translateX(24px);
+      transform: translateX(22px);
     }
 
-    /* Rainbow Divider */
+    /* Content Styling */
+    .main-content {
+      padding: 3rem 2rem;
+    }
+
+    section {
+      margin-bottom: 4rem;
+    }
+
+    section h2 {
+      font-size: 1.8rem;
+      font-weight: 800;
+      margin-bottom: 1.5rem;
+      position: relative;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    p {
+      margin-bottom: 15px;
+      text-align: justify;
+    }
+
+    a {
+      color: var(--text-accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    /* Rainbow Divider Decoration */
     .rainbow-divider {
       width: 100%;
       height: 4px;
@@ -111,38 +193,11 @@
       display: block;
     }
 
-    /* Profile Section */
-    .profile-section {
+    /* Profile Box Setup */
+    .bio-wrapper {
       display: flex;
       flex-direction: column-reverse;
-      gap: 20px;
-      margin-top: 20px;
-    }
-
-    @media(min-width: 768px) {
-      .profile-section {
-        flex-direction: row;
-        align-items: center;
-      }
-    }
-
-    .profile-text {
-      flex: 1;
-    }
-
-    .profile-text p {
-      margin-bottom: 15px;
-      text-align: justify;
-    }
-
-    .profile-text a {
-      color: var(--text-accent);
-      text-decoration: none;
-      font-weight: 600;
-    }
-
-    .profile-text a:hover {
-      text-decoration: underline;
+      gap: 30px;
     }
 
     .profile-avatar {
@@ -152,25 +207,14 @@
     }
 
     .profile-avatar img {
-      width: 200px;
-      height: 200px;
+      width: 160px;
+      height: 160px;
       border-radius: 50%;
       border: 3px solid var(--border-color);
       box-shadow: 0 4px 10px var(--shadow);
     }
 
-    h1, h2 {
-      margin-bottom: 15px;
-      color: var(--text-color);
-    }
-
-    h1 {
-      font-size: 2rem;
-      border-bottom: 1px solid var(--border-color);
-      padding-bottom: 8px;
-    }
-
-    /* Badges Layout */
+    /* Badges & Skill Grids */
     .badge-container {
       display: flex;
       flex-wrap: wrap;
@@ -178,41 +222,25 @@
       margin-bottom: 20px;
     }
 
-    .skills-grid {
-      text-align: center;
-      margin: 30px 0;
-    }
-
-    .skills-grid h2 {
+    .skills-subgrid {
       margin-bottom: 20px;
     }
 
-    .skills-grid img {
+    .skills-subgrid img {
       margin: 4px;
     }
 
-    /* Projects Grid */
-    .projects-container {
-      margin-top: 35px;
-    }
-
+    /* Projects Grid UI */
     .projects-grid {
       display: grid;
       grid-template-columns: 1fr;
       gap: 20px;
-      margin-top: 20px;
-    }
-
-    @media(min-width: 768px) {
-      .projects-grid {
-        grid-template-columns: 1fr 1fr;
-      }
     }
 
     .project-card {
       background-color: var(--card-bg);
       border: 1px solid var(--border-color);
-      border-radius: 8px;
+      border-radius: 12px;
       padding: 24px;
       box-shadow: 0 4px 6px var(--shadow);
       display: flex;
@@ -222,27 +250,12 @@
 
     .project-card h3 {
       margin-bottom: 12px;
-      text-align: center;
-    }
-
-    .project-card h3 a {
-      color: var(--text-accent);
-      text-decoration: none;
-    }
-
-    .project-card h3 a:hover {
-      text-decoration: underline;
     }
 
     .project-card p {
       font-size: 0.95rem;
-      text-align: center;
       margin-bottom: 20px;
       flex-grow: 1;
-    }
-
-    .project-btn-wrapper {
-      text-align: center;
     }
 
     .project-btn-wrapper img {
@@ -252,179 +265,221 @@
     .project-btn-wrapper img:hover {
       transform: scale(1.05);
     }
+
+    /* Desktop Responsive Mode Split Screen */
+    @media (min-width: 992px) {
+      .portfolio-container {
+        flex-direction: row;
+      }
+
+      .sidebar {
+        width: 30%;
+        position: fixed;
+        height: 100vh;
+        padding: 5rem 3rem;
+      }
+
+      .nav-links a {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 1.2rem;
+      }
+
+      .main-content {
+        width: 70%;
+        margin-left: 30%;
+        padding: 5rem;
+      }
+
+      .bio-wrapper {
+        flex-direction: row;
+      }
+
+      .profile-avatar img {
+        width: 200px;
+        height: 200px;
+      }
+    }
   </style>
 </head>
 <body>
 
-  <div class="container">
-    <!-- Header with Toggle Switch -->
-    <header>
-      <div class="theme-switch-wrapper">
-        <span>Theme</span>
-        <label class="theme-switch" for="checkbox">
-          <input type="checkbox" id="checkbox" />
-          <div class="slider"></div>
-        </label>
-      </div>
-    </header>
-
-    <!-- Top Banner Device Placeholder -->
-    <img src="assets/rainbow.gif" alt="Rainbow Logo" class="rainbow-divider" onerror="this.style.background='linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)'" />
-
-    <!-- Meet the Developer Section -->
-    <h1>Meet the Developer 😎</h1>
-    <div class="profile-section">
-      <div class="profile-text">
-        <p>
-          Creative and passionate Game Developer focused on building immersive, interactive, and high-performance 
-          applications using modern web technologies. Specialized in developing 3D experiences, desktop applications, 
-          and visually engaging interfaces with React, Three.js, Vite, Electron, and TypeScript.
-        </p>
-        <p>
-          Experienced in creating scalable frontend architectures, real-time interactive systems, responsive UI/UX, 
-          and optimized rendering pipelines for both web and desktop environments. Strong understanding of component-based 
-          development, animation systems, performance optimization, and modern JavaScript ecosystems.
-        </p>
-        <p>
-          Passionate about pushing creative boundaries through interactive design, procedural environments, and immersive 
-          gameplay experiences. Continuously exploring new technologies and workflows to create polished digital products 
-          and innovative user experiences.
-        </p>
-        <p>
-          I created <a href="https://github.com/NightShiftDeveloper/" target="_blank">Night Shift Developers</a>, an organization dedicated to helping students enhance their technical skills through active 
-          participation in collaborative projects. Members work on diverse initiatives that provide practical experience and professional development.
-        </p>
-        <p>
-          Currently also working as a GitHub Mentor at <a href="https://www.itonlinelearning.com/" target="_blank">ITonlinelearning</a>, 
-          helping aspiring developers improve their coding skills, GitHub workflows, portfolio projects, and modern development practices.
-        </p>
-      </div>
-      <div class="profile-avatar">
-        <img src="https://avatars.githubusercontent.com/u/241697224?v=4" alt="Developer Avatar" />
-      </div>
-    </div>
-
-    <img src="assets/rainbow.gif" alt="Rainbow Logo" class="rainbow-divider" onerror="this.style.background='linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)'" />
-
-    <!-- Most Skilled Technologies -->
-    <h2>My Most Skilled Technologies</h2>
-    <div class="badge-container">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white" alt="Three.js">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white" alt="Vite">
-      <img src="https://img.shields.io/badge/Electron-47848F?style=plastic&logo=electron&logoColor=white" alt="Electron">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/React_Three_Fiber-FF6B6B?style=plastic&logo=react&logoColor=white" alt="R3F">
-      <img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white" alt="Blender">
-      <img src="https://img.shields.io/badge/Git-31071c?style=plastic&logo=git&logoColor=white" alt="Git">
-    </div>
-
-    <img src="assets/rainbow.gif" alt="Rainbow Logo" class="rainbow-divider" onerror="this.style.background='linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)'" />
-
-    <!-- Game Dev Skills Grid -->
-    <div class="skills-grid">
-      <h2>Game Development Skills & Tools</h2>
-      
-      <!-- Frontend & Web -->
-      <div>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br />
+  <div class="portfolio-container">
+    
+    <!-- Left Sidebar: Static Personal Profile Info -->
+    <aside class="sidebar">
+      <div class="profile-sticky">
+        <h1 class="my-name">Darren<br>van der Velde</h1>
+        <p class="tagline">Game Developer & Creative Engineer</p>
         
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-        <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"><br />
-        
-        <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-        <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-        <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"><br />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-      </div>
+        <nav class="nav-links">
+          <a href="#about">About Me</a>
+          <a href="#skills">Technologies</a>
+          <a href="#projects">Projects</a>
+        </nav>
 
-      <!-- AI & Data -->
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"><br />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-      </div>
-
-      <!-- Tools & Platforms -->
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><br />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-      </div>
-
-      <!-- Operating Systems -->
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-        <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
-      </div>
-    </div>
-
-    <img src="assets/rainbow.gif" alt="Rainbow Logo" class="rainbow-divider" onerror="this.style.background='linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)'" />
-
-    <!-- Currently In Development Projects Section -->
-    <div class="projects-container">
-      <h1 style="text-align: center; border: none;">Currently In Development</h1>
-      
-      <div class="projects-grid">
-        <!-- Project 1 -->
-        <div class="project-card">
-          <h3>
-            <a href="https://github.com/Darrenvandervelde/New-World-Online" target="_blank">New World Online</a>
-          </h3>
-          <p>
-            New World Online is a browser-based 3D RPG/MMORPG built using Three.js and React. 
-            The game combines real-time multiplayer gameplay, open-world exploration, RPG systems, 
-            and immersive 3D environments directly inside the browser using WebGL technology.
-          </p>
-          <div class="project-btn-wrapper">
-            <a href="https://github.com/Darrenvandervelde/New-World-Online-Framework" target="_blank">
-              <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-            </a>
-          </div>
-        </div>
-
-        <!-- Project 2 -->
-        <div class="project-card">
-          <h3>
-            <a href="https://github.com/Darrenvandervelde/React-Folder-Structures" target="_blank">React Folder Structures</a>
-          </h3>
-          <p>
-            A collection of scalable React folder structure patterns designed to help developers 
-            organize modern frontend applications more effectively. Includes examples for feature-based, 
-            modular, enterprise, and scalable project architectures using React and TypeScript.
-          </p>
-          <div class="project-btn-wrapper">
-            <a href="https://github.com/Darrenvandervelde/React-Folder-Structures" target="_blank">
-              <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-            </a>
-          </div>
+        <!-- Dynamic Theme Toggle Widget -->
+        <div class="theme-switch-wrapper">
+          <span>Light Mode</span>
+          <label class="theme-switch" for="checkbox">
+            <input type="checkbox" id="checkbox" />
+            <div class="slider"></div>
+          </label>
         </div>
       </div>
-    </div>
+    </aside>
 
-    <img src="assets/rainbow.gif" alt="Rainbow Logo" class="rainbow-divider" onerror="this.style.background='linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)'" />
+    <!-- Right Side: Scrollable Main Content Stream -->
+    <main class="main-content">
+      
+      <!-- About Section -->
+      <section id="about">
+        <h2>Meet the Developer 😎</h2>
+        <div class="bio-wrapper">
+          <div class="profile-text">
+            <p>
+              Creative and passionate Game Developer focused on building immersive, interactive, and high-performance 
+              applications using modern web technologies. Specialized in developing 3D experiences, desktop applications, 
+              and visually engaging interfaces with React, Three.js, Vite, Electron, and TypeScript.
+            </p>
+            <p>
+              Experienced in creating scalable frontend architectures, real-time interactive systems, responsive UI/UX, 
+              and optimized rendering pipelines for both web and desktop environments. Strong understanding of component-based 
+              development, animation systems, performance optimization, and modern JavaScript ecosystems.
+            </p>
+            <p>
+              Passionate about pushing creative boundaries through interactive design, procedural environments, and immersive 
+              gameplay experiences. Continuously exploring new technologies and workflows to create polished digital products 
+              and innovative user experiences.
+            </p>
+            <p>
+              I created <a href="https://github.com/NightShiftDeveloper/" target="_blank">Night Shift Developers</a>, an organization dedicated to helping students enhance their technical skills through active 
+              participation in collaborative projects. Members work on diverse initiatives that provide practical experience and professional development.
+            </p>
+            <p>
+              Currently also working as a GitHub Mentor at <a href="https://www.itonlinelearning.com/" target="_blank">ITonlinelearning</a>, 
+              helping aspiring developers improve their coding skills, GitHub workflows, portfolio projects, and modern development practices.
+            </p>
+          </div>
+          <div class="profile-avatar">
+            <img src="https://avatars.githubusercontent.com/u/241697224?v=4" alt="Darren van der Velde Avatar" />
+          </div>
+        </div>
+      </section>
+
+      <!-- Decorative Rainbow Banner element -->
+      <img src="assets/rainbow.gif" alt="Rainbow Logo" class="rainbow-divider" onerror="this.style.background='linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)'" />
+
+      <!-- Comprehensive Skills Block -->
+      <section id="skills">
+        <h2>My Most Skilled Technologies</h2>
+        <div class="badge-container">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/Three.js-000000?style=plastic&logo=three.js&logoColor=white" alt="Three.js">
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white" alt="Vite">
+          <img src="https://img.shields.io/badge/Electron-47848F?style=plastic&logo=electron&logoColor=white" alt="Electron">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/React_Three_Fiber-FF6B6B?style=plastic&logo=react&logoColor=white" alt="R3F">
+          <img src="https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white" alt="Blender">
+          <img src="https://img.shields.io/badge/Git-31071c?style=plastic&logo=git&logoColor=white" alt="Git">
+        </div>
+
+        <h3 style="margin: 25px 0 15px 0;">Game Development Skills & Tools</h3>
+        
+        <div class="skills-subgrid">
+          <!-- Web Core Matrix -->
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br />
+          
+          <!-- Engines & Frame Pipelines -->
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+          <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+          <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"><br />
+          
+          <!-- 3D graphics Engines & DB layout -->
+          <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+          <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+          <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+          <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL">
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"><br />
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+        </div>
+
+        <!-- AI & Analytics Tools -->
+        <div class="skills-subgrid">
+          <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        </div>
+
+        <!-- Platform Ecosystems -->
+        <div class="skills-subgrid">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+        </div>
+
+        <!-- OS Systems Grid -->
+        <div class="skills-subgrid">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+          <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+          <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
+        </div>
+      </section>
+
+      <img src="assets/rainbow.gif" alt="Rainbow Logo" class="rainbow-divider" onerror="this.style.background='linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)'" />
+
+      <!-- Active Projects Construction Showcase -->
+      <section id="projects">
+        <h2>Currently In Development</h2>
+        <div class="projects-grid">
+          
+          <!-- Project Card 1 -->
+          <div class="project-card">
+            <div>
+              <h3><a href="https://github.com/Darrenvandervelde/New-World-Online" target="_blank">New World Online</a></h3>
+              <p>New World Online is a browser-based 3D RPG/MMORPG built using Three.js and React. The game combines real-time multiplayer gameplay, open-world exploration, RPG systems, and immersive 3D environments directly inside the browser using WebGL technology.</p>
+            </div>
+            <div class="project-btn-wrapper">
+              <a href="https://github.com/Darrenvandervelde/New-World-Online-Framework" target="_blank">
+                <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+              </a>
+            </div>
+          </div>
+
+          <!-- Project Card 2 -->
+          <div class="project-card">
+            <div>
+              <h3><a href="https://github.com/Darrenvandervelde/React-Folder-Structures" target="_blank">React Folder Structures</a></h3>
+              <p>A collection of scalable React folder structure patterns designed to help developers organize modern frontend applications more effectively. Includes examples for feature-based, modular, enterprise, and scalable project architectures using React and TypeScript.</p>
+            </div>
+            <div class="project-btn-wrapper">
+              <a href="https://github.com/Darrenvandervelde/React-Folder-Structures" target="_blank">
+                <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+              </a>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+    </main>
   </div>
 
-  <!-- Smooth Theme Toggle Script -->
+  <!-- Smooth Light/Dark Switch Script Logic -->
   <script>
     const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
     const currentTheme = localStorage.getItem('theme');
 
-    // Default to dark mode if no preference is stored
     if (!currentTheme) {
       document.documentElement.setAttribute('data-theme', 'dark');
       toggleSwitch.checked = false; 
