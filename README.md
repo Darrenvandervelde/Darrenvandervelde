@@ -2,8 +2,6 @@
   <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
 </p>
 
-<a href="https://github.com/davidmaja/Portfolio/blob/main/Movie%20Genre%20_%20Analysis.ipynb">View Notebook</a>
-
 
 # Meet the Developer 😎
 
