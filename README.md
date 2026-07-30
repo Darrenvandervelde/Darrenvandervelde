@@ -29,7 +29,7 @@
 
   Experienced in scalable frontend architectures, real-time interactive systems, responsive UI/UX, and optimised rendering pipelines for both web and desktop environments. Strong understanding of component-based development, animation systems, performance optimisation, and modern JavaScript ecosystems.
 
-  Passionate about pushing creative boundaries through interactive design, procedural environments, and immersive gameplay experiences — continuously exploring new tools and workflows to ship polished digital products.
+  Passionate about pushing creative boundaries through interactive design, procedural environments, and immersive gameplay experiences, continuously exploring new tools and workflows to ship polished digital products.
 
   Founder of <a href="https://github.com/NightShiftDeveloper/">Night Shift Developers</a>, an organisation dedicated to helping students grow through collaborative, real-world projects. Currently also serving as a **GitHub Mentor** at <a href="https://www.itonlinelearning.com/" target="_blank">ITonlinelearning</a>, helping aspiring developers level up their coding skills, GitHub workflows, and portfolio projects.
 
