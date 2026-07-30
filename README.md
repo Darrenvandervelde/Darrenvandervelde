@@ -189,4 +189,4 @@
   <img src="https://komarev.com/ghpvc/?username=Darrenvandervelde&style=for-the-badge&color=2ea043"/>
 </div>
 
-<p align="center"><strong>Thanks for visiting — go build something awesome. 🚀</strong></p>
+<p align="center"><strong>Thanks for visiting go build something awesome.</strong></p>
