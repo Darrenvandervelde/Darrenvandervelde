@@ -2,7 +2,7 @@
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Darren 👾</h1>
+<h1 align="center">Hey, I'm Darren van der Velde</h1>
 <h3 align="center">Game Developer · Full Stack Engineer · 3D Web Experiences</h3>
 
 <p align="center">
@@ -14,8 +14,6 @@
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
-
----
 
 ## Meet the Developer 😎
 
@@ -39,8 +37,6 @@
 
 <br clear="all"/>
 
----
-
 ## Core Stack
 
 <div>
@@ -58,11 +54,9 @@
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
 
----
-
 ## Skills & Technologies
 
-<div align="center">
+<div align="left">
 
 <h3>Languages</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -115,13 +109,8 @@
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
 
----
-
 ## GitHub Stats
 
-<div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Darrenvandervelde&theme=github-dark&hide_border=true"/>
-</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrenvandervelde&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true"/>
 </div>
@@ -129,8 +118,6 @@
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
-
----
 
 ## Currently In Development
 
@@ -175,16 +162,12 @@
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
 
----
+## Night Shift Developers
 
-## Night Shift Developers 🌙
-
-<p align="center">
-  I founded <a href="https://github.com/NightShiftDeveloper/">Night Shift Developers</a> — an organisation helping students grow through hands-on, collaborative projects.<br/>
+<p align="left">
+  I founded <a href="https://github.com/NightShiftDeveloper/">Night Shift Developers</a> an organisation helping students grow through hands-on, collaborative projects.<br/>
   Members gain real-world experience across diverse initiatives covering frontend, game dev, backend, and more.
 </p>
-
----
 
 ## Connect With Me
 
