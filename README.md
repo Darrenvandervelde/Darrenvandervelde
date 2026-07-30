@@ -171,13 +171,13 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/darren-van-der-velde/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/NightShiftDeveloper" target="_blank">
     <img src="https://img.shields.io/badge/Night%20Shift%20Developers-181717?style=for-the-badge&logo=github&logoColor=white" alt="Night Shift Developers"/>
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:Darrenvandervelde@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -185,5 +185,8 @@
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Darrenvandervelde&style=for-the-badge&color=2ea043"/>
+</div>
 
 <p align="center"><strong>Thanks for visiting — go build something awesome. 🚀</strong></p>
