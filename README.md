@@ -108,12 +108,6 @@
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darrenvandervelde&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true"/>
-</div>
-
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
