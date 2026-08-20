@@ -107,9 +107,9 @@
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
-
+<!--
 ## Currently In Development
-
+--
 <div align="center">
   <table>
     <tr>
@@ -146,7 +146,7 @@
     </tr>
   </table>
 </div>
-
+-->
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
