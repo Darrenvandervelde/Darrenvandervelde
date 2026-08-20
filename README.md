@@ -103,7 +103,7 @@
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
 
 </div>
-
+<!--
 <p align="center">
   <img src="assets/rainbow.gif" alt="Rainbow divider" width="100%" />
 </p>
