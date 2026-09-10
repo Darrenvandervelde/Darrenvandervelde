@@ -19,7 +19,7 @@
 
 <p align="justify">
   <img 
-    src="https://avatars.githubusercontent.com/u/241697224?v=4" 
+    src="https://myoctocat.com/assets/images/octocats/octocat-20.png" 
     align="right" 
     width="230" 
     style="margin-left:20px; border-radius: 12px;" 
