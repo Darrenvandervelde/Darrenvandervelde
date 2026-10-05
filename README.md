@@ -19,7 +19,7 @@
 
 <p align="justify">
   <img 
-    src="https://myoctocat.com/assets/images/octocats/octocat-20.png" 
+    src="https://myoctocat.com/assets/images/octocats/octocat-20.png?size=460&mask=circle&w=460" 
     align="right" 
     width="220" 
     style="margin-left:20px; border-radius: 50%;"
