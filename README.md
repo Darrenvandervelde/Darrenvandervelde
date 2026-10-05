@@ -22,7 +22,7 @@
     src="https://myoctocat.com/assets/images/octocats/octocat-20.png" 
     align="right" 
     width="220" 
-    style="margin-left:20px; border-radius: 12px;" 
+    style="margin-left:20px; border-radius: 50%;"
   />
   
   Creative and passionate **Game Developer & Full Stack Engineer** focused on building immersive, interactive, and high-performance applications using modern web technologies. Specialised in **3D experiences**, desktop applications, and visually engaging interfaces with **React, Three.js, Vite, Electron, and TypeScript**.
