@@ -31,7 +31,7 @@
 
   Passionate about pushing creative boundaries through interactive design, procedural environments, and immersive gameplay experiences. Continuously exploring new tools and workflows to ship polished digital products.
 
-  Founder of <a href="https://github.com/NightShiftDeveloper/">Night Shift Developers</a> — an organisation dedicated to helping students grow through collaborative, real-world projects. Currently also serving as a **GitHub Mentor** at <a href="https://www.itonlinelearning.com/" target="_blank">ITonlinelearning</a>, helping aspiring developers level up their coding skills, GitHub workflows, and portfolio projects.
+  Founder of <a href="https://github.com/NightShiftDeveloper/">Night Shift Developers</a> an organisation dedicated to helping students grow through collaborative, real-world projects. Currently also serving as a **GitHub Mentor** at <a href="https://www.itonlinelearning.com/" target="_blank">ITonlinelearning</a>, helping aspiring developers level up their coding skills, GitHub workflows, and portfolio projects.
 </p>
 
 <br clear="all"/>
@@ -63,7 +63,7 @@
       </h3>
       <p align="center">
         Browser-based 3D RPG / MMORPG built with <strong>Three.js + React</strong>.<br/>
-        Real-time multiplayer, open-world exploration, RPG systems, and immersive WebGL environments — entirely in the browser.
+        Real-time multiplayer, open-world exploration, RPG systems, and immersive WebGL environments entirely in the browser.
       </p>
       <p align="center">
         <a href="https://github.com/Darrenvandervelde/New-World-Online">
@@ -156,7 +156,7 @@
 <!--
 ## Night Shift Developers
 --
-I founded <a href="https://github.com/NightShiftDeveloper/">Night Shift Developers</a> — an organisation helping students grow through hands-on, collaborative projects.  
+I founded <a href="https://github.com/NightShiftDeveloper/">Night Shift Developers</a> an organisation helping students grow through hands-on, collaborative projects.  
 Members gain real-world experience across frontend, game development, backend, and more.
 -->
 <p align="center">
